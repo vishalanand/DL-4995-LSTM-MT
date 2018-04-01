@@ -1,907 +1,1000 @@
-BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Es trifft zu.
-BLEU: 0.75984	Prediction: Ist Tom gut?	Actual:Ist Tom allein?
-BLEU: 0.75984	Prediction: Ist es das?	Actual:Ist es heiß?
-BLEU: 0.63894	Prediction: Ich habe eine Frause.	Actual:Ich habe kein Geld.
-BLEU: 0.63894	Prediction: Wir können sie helfen.	Actual:Wir können nicht gehen.
-BLEU: 0.30935	Prediction: Ich habe es gefunden.	Actual:Ich verstehe.
-BLEU: 0.54445	Prediction: Ich mag das Gele.	Actual:Ich wachte auf.
-BLEU: 0	Prediction: Kannst du schwimmen?	Actual:Könnt ihr kommen?
-BLEU: 0.70711	Prediction: Ich bin ein Tomstig.	Actual:Ich bin ein Offizier.
-BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich bin risikofreudig.
-BLEU: 0.23505	Prediction: Ich muss mich aus den Lauf das preist.	Actual:Ich muss eine kaufen.
-BLEU: 0	Prediction: Es hat eine Frause.	Actual:Ich habe hier Schmerzen.
-BLEU: 0	Prediction: Gib es mal anderen sein!	Actual:Gönnen Sie uns eine Pause!
-BLEU: 0	Prediction: Es ist sehr schnell.	Actual:Diesmal zahle ich.
-BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin wach.
-BLEU: 0.75984	Prediction: Tom ist gerade.	Actual:Tom ist älter.
-BLEU: 0.54445	Prediction: Ich habe es versprochen.	Actual:Ich wurde ohnmächtig.
-BLEU: 0	Prediction: Da ist ein Buch.	Actual:Es gibt keine Seife.
-BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Es war nicht unserer.
-BLEU: 0.75984	Prediction: Sind Sie beschäftigt?	Actual:Sind wir pleite?
-BLEU: 0.70711	Prediction: Tom scheint bleiben.	Actual:Tom verlor das Bewusstsein.
-BLEU: 0.75984	Prediction: Tom schaut aus.	Actual:Tom würde gehen.
-BLEU: 0.70711	Prediction: Meine Augen sin weid.	Actual:Meine Füße taten weh.
-BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind drinnen.
-BLEU: 0.54445	Prediction: Tom sieht gut aus.	Actual:Tom entschuldigte sich.
-BLEU: 0.51003	Prediction: Sie haben gelagen.	Actual:Sie jubelten.
-BLEU: 0.63894	Prediction: Ich kenne die Weise.	Actual:Ich kenne deinen Sohn.
-BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom war hinterhältig.
-BLEU: 0	Prediction: Das hat eine Falle.	Actual:Ich studiere Koreanisch.
-BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir sind zeitig.
-BLEU: 0	Prediction: Komm hier!	Actual:Die Rechnung, bitte.
-BLEU: 0.75984	Prediction: Ich hasse gerne.	Actual:Ich hasse Hunde.
-BLEU: 0.51003	Prediction: Ist er schon?	Actual:Schläft er?
-BLEU: 0.30935	Prediction: Fahre mich nicht helfen!	Actual:Fahre vorsichtig.
-BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Zisch ab!
-BLEU: 0.70711	Prediction: Ist Tom nicht schwer?	Actual:Ist Tom nicht cool?
-BLEU: 0	Prediction: Verschwinde!	Actual:Scher dich fort!
-BLEU: 0.63894	Prediction: Wer hat es gesagt?	Actual:Wer hat sie gefunden?
-BLEU: 0.75984	Prediction: Tom ist gerade.	Actual:Tom ist schmutzig.
-BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin schrecklich.
-BLEU: 0.54445	Prediction: Ich bin sehr geschreten.	Actual:Ich bin verärgert.
-BLEU: 0.75984	Prediction: Er liebt eine.	Actual:Er liebt uns.
-BLEU: 0.30935	Prediction: Sie kann gut such.	Actual:Sie kam.
-BLEU: 0.54445	Prediction: Mein Falle ist alle.	Actual:Mathe ist schwer.
-BLEU: 0.75984	Prediction: Niemand hat geweint.	Actual:Niemand ist gestorben.
-BLEU: 0.54445	Prediction: Ich habe eine Frauner.	Actual:Ich bin glücklich.
-BLEU: 0.70711	Prediction: Tom schläft.	Actual:Tom ist auf Diät.
-BLEU: 0.54445	Prediction: Wir brauchen eine Karte.	Actual:Wir vertrauten Tom.
-BLEU: 0	Prediction: Seid tolt.	Actual:Seien Sie diskret!
-BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom ist entkommen.
-BLEU: 0.56234	Prediction: Das ist ein Schreibtisch.	Actual:Das ist ein bissiger Hund.
-BLEU: 0	Prediction: Das kann schwommen.	Actual:Im Ernst?
-BLEU: 1.0	Prediction: Tom hat eine Erkältung.	Actual:Tom hat eine Erkältung.
-BLEU: 0	Prediction: Maria mal den Red.	Actual:Danke sehr!
-BLEU: 0.63894	Prediction: Hör auf zu schießen.	Actual:Hört auf zu schreien!
-BLEU: 0.63894	Prediction: Ich liebe mich ause.	Actual:Ich liebe dich, Tom!
-BLEU: 0.42888	Prediction: Das hat eine Fass ange ragen.	Actual:Ich denke das auch.
-BLEU: 0	Prediction: Nimm mit der Bessen.	Actual:Umarmen Sie Tom!
-BLEU: 0.66874	Prediction: Niemand ist getan.	Actual:Es hat mich niemand unterrichtet.
-BLEU: 0.70711	Prediction: Das gehört Tom.	Actual:Das sieht gut aus.
-BLEU: 0.75984	Prediction: Komm mit mir.	Actual:Komm wieder her!
-BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind still.
-BLEU: 0.66874	Prediction: Ich sinde nerve.	Actual:Ich habe Tom nicht gehorcht.
-BLEU: 0.70711	Prediction: Wo ist mein Sohn?	Actual:Wo ist mein Rad?
-BLEU: 0	Prediction: Ich mag das Gelickt.	Actual:Mir gefällt dein Auto.
-BLEU: 0.49761	Prediction: Ich kann es mal en.	Actual:Ich kann Ski fahren.
-BLEU: 0.54445	Prediction: Ich bin sehr geschlaten.	Actual:Ich rieche Kaffee.
-BLEU: 0.63894	Prediction: Ich will eine Falle.	Actual:Ich will sie alle.
-BLEU: 0.20029	Prediction: Ich muss mich aus den Lauf drautend.	Actual:Ich muss lernen.
-BLEU: 0.70711	Prediction: Es klang einfach.	Actual:Es macht mich krank.
-BLEU: 0	Prediction: Sag es mir der Laufall.	Actual:Sage die Wahrheit!
-BLEU: 0.70711	Prediction: Er kann nicht schwimmen.	Actual:Er hat es erwähnt.
-BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Bleib mal auf dem Boden der Tatsachen!
-BLEU: 0.75984	Prediction: Tom war erwisset.	Actual:Tom hatte Schmerzen.
-BLEU: 0.63894	Prediction: Wo ist mein Sohn?	Actual:Wo ist der Zoo?
-BLEU: 0	Prediction: Seien Sie zurück.	Actual:Bis später!
-BLEU: 0.5507	Prediction: Tom scheint beschäftigt zu sein.	Actual:Tom muss gewonnen haben.
-BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom hat telefoniert.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war mager.
-BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht nett.
-BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe die Schlüssel.
-BLEU: 0.54445	Prediction: Du kannst es gehen.	Actual:Du warst großartig!
-BLEU: 0.75984	Prediction: Tom scheint geschlacht.	Actual:Tom kam hierher.
-BLEU: 0.39011	Prediction: Tom hat eine Palis gebeten.	Actual:Tom glaubt es.
-BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe einen Camion.
-BLEU: 0.54445	Prediction: Ich will eine Falle.	Actual:Ich will sterben.
-BLEU: 0.63894	Prediction: Wir müssen reden.	Actual:Wir müssen sie finden.
-BLEU: 0	Prediction: Das Leben ist nicht faur.	Actual:Seine Nase blutete.
-BLEU: 0	Prediction: Du bist mein Held.	Actual:Ihr seid Idioten.
-BLEU: 0.54445	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann antworten.
-BLEU: 0	Prediction: Lasst uns nicht lassen!	Actual:Schöne Reise!
-BLEU: 0.66874	Prediction: Ich habe ein Buch gehen.	Actual:Ich habe ein Buch gekauft.
-BLEU: 0.54445	Prediction: Wir können sie helfen.	Actual:Wir vertrauen ihm.
-BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich möchte ihn nicht.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom wurde gefeuert.
-BLEU: 0.42888	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom ekelt mich an.
-BLEU: 0.70711	Prediction: Ich werde nicht gehen.	Actual:Ich werde nicht tanzen.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war verwöhnt.
-BLEU: 0	Prediction: Lasst uns anfangen!	Actual:Auf, auf!
-BLEU: 0.27953	Prediction: Ich kann es mir nicht sehen.	Actual:Ich gebe Französischunterricht.
-BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe Eintopf gemacht.
-BLEU: 0	Prediction: Macht es du belagt?	Actual:Möchtet ihr welche?
-BLEU: 0	Prediction: Gehe weg!	Actual:Gehen Sie da lang!
-BLEU: 0.54445	Prediction: Ich bin ein Tomstig.	Actual:Ich schlafe nicht.
-BLEU: 0	Prediction: Nimm meinen Rat an.	Actual:Beiß mal rein!
-BLEU: 0.75984	Prediction: Die gefällt mir.	Actual:Die Mädchen gewannen.
-BLEU: 0.70711	Prediction: Wir haben es gefunden.	Actual:Wir schauten nach oben.
-BLEU: 0	Prediction: Kommerlleisen Sie sichen.	Actual:Lass mich einfach gehen.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist so unverschämt.
-BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe viel gesehen.
-BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht lebendig.
-BLEU: 0	Prediction: Du kannst allein.	Actual:Ihr stinkt.
-BLEU: 0.70711	Prediction: Tom wird es versuchen.	Actual:Tom wird es überprüfen.
-BLEU: 0	Prediction: Fasse das.	Actual:Vögel singen.
-BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom ist verschwunden.
-BLEU: 0.63894	Prediction: Sie ist ein gemacht.	Actual:Sie ist eine Weiße.
-BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom wurde erschossen.
-BLEU: 0.70711	Prediction: Ich habe mich geschlagen.	Actual:Ich muss andauernd niesen.
-BLEU: 0.5507	Prediction: Ich bin aus der Lügend.	Actual:Ich meine es ernst!
-BLEU: 0.70711	Prediction: Geht mir nicht.	Actual:Beleidigen Sie mich nicht!
-BLEU: 0.39011	Prediction: Ich bin auf der Lasen.	Actual:Ich bin Ingenieur.
-BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist leichtgläubig.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist überzeugend.
-BLEU: 0	Prediction: Ich bin ausgerastet.	Actual:Das Leben macht mir Freude.
-BLEU: 0.70711	Prediction: Habt ihr es getan?	Actual:Hast du es vergessen?
-BLEU: 0.30935	Prediction: Wer hat es gesagt?	Actual:Wer verschwand?
-BLEU: 0.54445	Prediction: Wir werden es versuchen.	Actual:Wir greifen an.
-BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom hat gehorcht.
-BLEU: 0.66874	Prediction: Wer hat es gefunden?	Actual:Wer wird das Essen zubereiten?
-BLEU: 0	Prediction: Ist es das?	Actual:Bin ich dran?
-BLEU: 0	Prediction: Geht weiter da.	Actual:Gehen Sie und warten Sie draußen!
-BLEU: 0.54445	Prediction: Wo ist mein Sie?	Actual:Wo liegt Boston?
-BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Befehl!
-BLEU: 0.39011	Prediction: Fangen Sie mich nicht an!	Actual:Steh nicht auf.
-BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist er Japaner?
-BLEU: 0.63894	Prediction: Tom hatte eine Erkältung.	Actual:Tom hatte einen Sohn.
-BLEU: 0	Prediction: Wie seltsam!	Actual:Was ist das nicht süß!
-BLEU: 0.54445	Prediction: Das ist ein Tom.	Actual:Das gehört ihr.
-BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Schießen Sie zurück.
-BLEU: 0.54445	Prediction: Das ist ein Schöre.	Actual:Das ist alles.
-BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin geschieden.
-BLEU: 0.54445	Prediction: Was ist das freitet?	Actual:Was ist drin?
-BLEU: 0.70711	Prediction: Ich bin sehr schüchtern.	Actual:Ich bin sehr glücklich.
-BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Es ist kalt.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist eine Kirche.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist zynisch.
-BLEU: 0.70711	Prediction: Du hast mich angelogen.	Actual:Du versteckst dich besser!
-BLEU: 0.75984	Prediction: Wir sind verloren.	Actual:Wir sind Studenten.
-BLEU: 0	Prediction: Komm hierher!	Actual:Kommt näher.
-BLEU: 0.63894	Prediction: Ich will eine Falle.	Actual:Ich will einen Hundewelpen.
-BLEU: 0.66874	Prediction: Ich will eine Falle.	Actual:Ich möchte den Ventilator haben.
-BLEU: 0	Prediction: Kennen Sie mich?	Actual:Magst du Rap?
-BLEU: 0.70711	Prediction: Ich bin ausgerautet.	Actual:Ich fiel in Ohnmacht.
-BLEU: 0.75984	Prediction: Sie sind gut.	Actual:Sie sind weg.
-BLEU: 0.30935	Prediction: Ich habe es gefunden.	Actual:Ich versprech's.
-BLEU: 0	Prediction: Es hat geschnaut.	Actual:Das hilft.
-BLEU: 0.70711	Prediction: Ist es ein Tom?	Actual:Ist das gesetzlich zugelassen?
-BLEU: 0.70711	Prediction: Hat Tom es gesagt?	Actual:Hat Tom es bemerkt?
-BLEU: 0	Prediction: Ich mag das Gelickt.	Actual:Mir gefällt es hier.
-BLEU: 0.63894	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin so satt.
-BLEU: 0.66874	Prediction: Sie hat ihn gesehen.	Actual:Sie gab einen Schuss ab.
-BLEU: 0.63894	Prediction: Darf ich mich setzen?	Actual:Darf ich zuerst gehen?
-BLEU: 0.70711	Prediction: Es ist ein Tom.	Actual:Es ist ein Hinterhalt!
-BLEU: 0.70711	Prediction: Tom liebt das.	Actual:Tom hat schon gegessen.
-BLEU: 0.75984	Prediction: Tom scheint gelassen.	Actual:Es scheint, dass Tom beschäftigt ist.
-BLEU: 0.54445	Prediction: Maria ist ein Fachmand.	Actual:Maria ist seltsam.
-BLEU: 0	Prediction: Sie sind verloren.	Actual:Ja, ich weiß.
-BLEU: 0.18763	Prediction: Ich bin aus der Nachen.	Actual:Ich lerne.
-BLEU: 0	Prediction: Versuch dich dich einfal!	Actual:Trinken Sie etwas.
-BLEU: 0.54445	Prediction: Ich hasse es einverstanden.	Actual:Ich hasse Spinat.
-BLEU: 0.66874	Prediction: Alles ist gut gehen.	Actual:Gestatten Sie mir, zu gehen.
-BLEU: 0	Prediction: Warte mal kurz.	Actual:Warten Sie bis sechs!
-BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Scher dich weg!
-BLEU: 0	Prediction: Nimm meinen Rat an.	Actual:Nehmen Sie alles.
-BLEU: 0.56234	Prediction: Ich bin ein Tomstig.	Actual:Ich bin ein alter Mann.
-BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Verkrümele dich!
-BLEU: 0	Prediction: Lass mich in Rehen!	Actual:Hier kommt Tom.
-BLEU: 0	Prediction: Frießen Sie mal!	Actual:Unglaublich!
-BLEU: 0.39011	Prediction: Ich bin aus Topio gefallen.	Actual:Ich träume viel.
-BLEU: 0	Prediction: Stellen Sie sich dir Auf!	Actual:Trag die Konsequenzen!
-BLEU: 0.39011	Prediction: Ich bin aus der Still.	Actual:Ich bin Optimist.
-BLEU: 0.63894	Prediction: Sind wir schon weiter?	Actual:Sind wir dann durch?
-BLEU: 0	Prediction: Schauen Sie genauer hin.	Actual:Rindfleisch bitte.
-BLEU: 0.49761	Prediction: Er ist ein guter Junge.	Actual:Er ist nicht bereit.
-BLEU: 0.63894	Prediction: Ist es das?	Actual:Ist es ein Geheimnis?
-BLEU: 0.75984	Prediction: Schreiben Sie mir!	Actual:Schreiben Sie Tom!
-BLEU: 0.70711	Prediction: Ich werde nicht gehen.	Actual:Ich werde nicht einlenken.
-BLEU: 0.75984	Prediction: Wer schrimm?	Actual:Wer ist er?
-BLEU: 0.54445	Prediction: Er ist nicht groß.	Actual:Er ist unverheiratet.
-BLEU: 0.54445	Prediction: Hat Tom es gesagt?	Actual:Ist Tom entkommen?
-BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Baum.
-BLEU: 0.75984	Prediction: Es hat geschlaft.	Actual:Es klappt gut.
-BLEU: 0.54445	Prediction: Wer hat es gefunden?	Actual:Wer wird anfangen?
-BLEU: 0.5507	Prediction: Sie kann gehen zu spät.	Actual:Sie hat ihn erwürgt.
-BLEU: 0.54445	Prediction: Es war nicht schlecht.	Actual:Es war real.
-BLEU: 0.30935	Prediction: Wie schlecken wir hal!	Actual:Wie schön!
-BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist dankbar.
-BLEU: 0.9036	Prediction: Wir müssen gehen.	Actual:Wir sollten gehen.
-BLEU: 0.63894	Prediction: Tom war ein Buch.	Actual:Tom war mein Chef.
-BLEU: 0	Prediction: Ich habe eine Erkältung.	Actual:Es geht mir gut.
-BLEU: 0.54445	Prediction: Es ist sehr schnell.	Actual:Das ist unmenschlich.
-BLEU: 0.63894	Prediction: Ich sinde nichts.	Actual:Ich fragte Tom nach dem Grund.
-BLEU: 0.75984	Prediction: Kennen Sie mich?	Actual:Hörst du mich?
-BLEU: 0	Prediction: Nehmt meine.	Actual:Übernimm die Kontrolle.
-BLEU: 0.63894	Prediction: Das da ist allessing.	Actual:Die da ist OK.
-BLEU: 0.70711	Prediction: Komm hierher!	Actual:Kommen Sie sofort hierher!
-BLEU: 0.30935	Prediction: Wir sind zu Hause.	Actual:Wir summen.
-BLEU: 0	Prediction: Du scheinst gut zu sein.	Actual:Ihr solltet gehen.
-BLEU: 0	Prediction: Niemand hat gesehen.	Actual:Kein Problem!
-BLEU: 0	Prediction: Es ist ein Tasscheingehel.	Actual:Ich bin's nur!
-BLEU: 0.70711	Prediction: Ich habe eine Frause.	Actual:Ich hörte ein Geräusch.
-BLEU: 0.5507	Prediction: Tom hat eine Frau gegassen.	Actual:Tom fühlte sich einsam.
-BLEU: 0.75984	Prediction: Wo waren Sie?	Actual:Wo wir sind?
-BLEU: 0.39011	Prediction: Ich werde mit Tom gefangen.	Actual:Ich mache das.
-BLEU: 0.62233	Prediction: Ich werde nicht gehen.	Actual:Ich werde es nicht abstreiten.
-BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom wurde überfallen.
-BLEU: 0	Prediction: Ruf Tom an!	Actual:Springen Sie hinüber.
-BLEU: 0.70711	Prediction: Sie hat ihn gesehen.	Actual:Sie strengt sich an.
-BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer tat das?
-BLEU: 0.66874	Prediction: Lasst uns Tom sehen.	Actual:Lass uns ein Taxi nehmen!
-BLEU: 0.30935	Prediction: Tom schaut meinen Huss.	Actual:Tom improvisierte.
-BLEU: 0.54445	Prediction: Was für ein Tom!	Actual:Was blieb übrig?
-BLEU: 0.63894	Prediction: Tom war ein Buch.	Actual:Tom war bei mir.
-BLEU: 0.49761	Prediction: Sie ist ein guter Junge.	Actual:Sie ist auf Diät.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist mein Haus.
-BLEU: 0	Prediction: Verschwinde!	Actual:Troll dich!
-BLEU: 0	Prediction: Ich will eine Falle.	Actual:Mir ist zum Weinen zumute.
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist verwirrt.
-BLEU: 0	Prediction: Ich bin auf der Lagen.	Actual:Es ist ernst gemeint von mir.
-BLEU: 0	Prediction: Lassen Sie mich an!	Actual:Augenblick mal!
-BLEU: 0.56234	Prediction: Tom scheint gelassen.	Actual:Tom scheint sich zu langweilen.
-BLEU: 0.70711	Prediction: Es ist schwerzelig.	Actual:Das ist eine Frucht.
-BLEU: 0.66874	Prediction: Ich habe eine Frau.	Actual:Ich leide an einer Erkältung.
-BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht sicher.
-BLEU: 0.75984	Prediction: Wer schrimm?	Actual:Wer ist da?
-BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind kalt.
-BLEU: 0.70711	Prediction: Ist Tom nicht schwer?	Actual:Ist Tom nicht großartig?
-BLEU: 0.54445	Prediction: Ich bin ein Tomschieden.	Actual:Ich bin Lehrerin.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist nicht wirklich.
-BLEU: 0	Prediction: Denke der hier!	Actual:Denk noch mal nach!
-BLEU: 0	Prediction: Ich kann es mir mich nicht seiden.	Actual:Das Fleisch ist knapp.
-BLEU: 0.5507	Prediction: Wir werden es mir beschäftigt.	Actual:Wir werden es herausbekommen.
-BLEU: 0.63894	Prediction: Ich habe es gefunden.	Actual:Ich habe mich erholt.
-BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Scher dich fort!
-BLEU: 0.70711	Prediction: Ich will eine Falle.	Actual:Ich ging an Bord.
-BLEU: 0.66874	Prediction: Ich werde dich vermissen.	Actual:Ich gehe das Risiko ein.
-BLEU: 0.70711	Prediction: Ist das eine Manausa?	Actual:Ist dies ein Wein?
-BLEU: 0	Prediction: Du solltest gehen.	Actual:Sie sollten kommen.
-BLEU: 0.70711	Prediction: Wie geht es dir?	Actual:Wie fühlst du dich?
-BLEU: 0.79527	Prediction: Kontrollieren Sie es einfach.	Actual:Machen Sie einfach Tom nach.
-BLEU: 0	Prediction: Lasst uns essen!	Actual:Schauen wir mal.
-BLEU: 0	Prediction: Lasst uns essen gehen!	Actual:Kommt, wir spielen jetzt Fangen.
-BLEU: 0.75984	Prediction: Können Sie schwimmen?	Actual:Können Sie gehen?
-BLEU: 0.63894	Prediction: Tom war erwastet.	Actual:Tom war am Gewinnen.
-BLEU: 0	Prediction: Ich bin sehr geschlafen.	Actual:Mir geht's gut.
-BLEU: 0.70711	Prediction: Er ist nicht großartig.	Actual:Er trägt einen Bart.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist aufgekratzt.
-BLEU: 0.63894	Prediction: Ist das ein Frein?	Actual:Ist das hier deins?
-BLEU: 0.75984	Prediction: Sie waren beschäftigt.	Actual:Sie werden kommen.
-BLEU: 0	Prediction: Meine Arbeit ist getan.	Actual:Mir tut der Kiefer weh.
-BLEU: 0.54445	Prediction: Hör auf zu schießen.	Actual:Haltet Tom auf!
-BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin reich.
-BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Es war nicht unseres.
-BLEU: 0.63894	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin so müde!
-BLEU: 0.54445	Prediction: Ich hasse es einverstanden.	Actual:Ich hasse Kaffee.
-BLEU: 0	Prediction: Versuchen Sie es.	Actual:Beeil dich!
-BLEU: 0	Prediction: Behalten Sie es meine.	Actual:Schreibt weiter.
-BLEU: 0.54445	Prediction: Du bist so sauf.	Actual:Du bist verrückt.
-BLEU: 0	Prediction: Können Sie schwimmen?	Actual:Kannst du mir helfen?
-BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist Tom da?
-BLEU: 0.54445	Prediction: Er ist ein gelassen.	Actual:Er ist Plattenaufleger.
-BLEU: 0.54445	Prediction: Ich will eine Falle.	Actual:Ich will Maria.
-BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Mythos.
-BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat sich weiterbewegt.
-BLEU: 0	Prediction: Du bist so sauf.	Actual:Ihr seid reich.
-BLEU: 0	Prediction: Sind wir schon weiter?	Actual:War es das?
-BLEU: 0.51003	Prediction: Sieh dich auf.	Actual:Entspann dich!
-BLEU: 0.66874	Prediction: Ich will eine Falle.	Actual:Ich gehe immer zu Fuß.
-BLEU: 0.56234	Prediction: Mach den Fernseher lauter.	Actual:Machen Sie den Fernseher lauter.
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist unhöflich.
-BLEU: 0.56234	Prediction: Sie haben gewonnen.	Actual:Sie haben ihr Ziel erreicht.
-BLEU: 0.75984	Prediction: Willkommen!	Actual:Willkommen zu Hause.
-BLEU: 0.38754	Prediction: Ich bin ein Mann zu schlafen.	Actual:Ich bin in London.
-BLEU: 0.5507	Prediction: Ich bin aus der Schuld.	Actual:Ich verstecke mich nicht.
-BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom wurde böse.
-BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Schwirr ab!
-BLEU: 0.8409	Prediction: Ich war nicht schlecht.	Actual:Ich wurde nicht angeheuert.
-BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Seien Sie vernünftig!
-BLEU: 0.5507	Prediction: Lass es das mich sachen!	Actual:Überlassen Sie das uns!
-BLEU: 0.54445	Prediction: Tom war ein Buch.	Actual:Tom war fantastisch.
-BLEU: 0.65489	Prediction: Bitte setzen Sie sich hierhin.	Actual:Bitte setz dich hierhin.
-BLEU: 0.46392	Prediction: Er kann es nicht leiden.	Actual:Er schaffte es.
-BLEU: 0.39011	Prediction: Sie kann gehen zu schöfen.	Actual:Sie küsste ihn.
-BLEU: 0.8409	Prediction: Wo ist mein Sohn?	Actual:Wo bleibt mein Trinkgeld?
-BLEU: 0.39011	Prediction: Ich bin aus der Still.	Actual:Ich bin wichtig.
-BLEU: 0.70711	Prediction: Ich habe es gefunden.	Actual:Ich fühle mich schuldig.
-BLEU: 0.54445	Prediction: Ich liebe der Gelde.	Actual:Ich liebe Hochzeiten.
-BLEU: 0.70711	Prediction: Wir brauchen eine Katze.	Actual:Wir wissen es nicht.
-BLEU: 0.75984	Prediction: Ich war schlecht.	Actual:Ich war gerührt.
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist fair.
-BLEU: 0	Prediction: Habt ihr es getan?	Actual:Hatten wir das?
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist traurig.
-BLEU: 0.70711	Prediction: Schauen Sie genauer hin.	Actual:Schauen Sie genau hin.
-BLEU: 0.75984	Prediction: Es klangt mein.	Actual:Es riecht übel.
-BLEU: 0.70711	Prediction: Wir haben es gefunden.	Actual:Wir haben einen gefunden.
-BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich verstehe das nicht.
-BLEU: 0.9036	Prediction: Ist es das?	Actual:Ist das deins?
-BLEU: 0	Prediction: Gib mir den Buch.	Actual:Grabe eine tiefes Loch.
-BLEU: 0	Prediction: Das kann mah nicht.	Actual:Männer sind Schweine.
-BLEU: 0.5507	Prediction: Er ist ein guter Junge.	Actual:Er ist ein Medium.
-BLEU: 0.63894	Prediction: Tom hat es geschlagen.	Actual:Tom benahm sich wie ein Betrunkener.
-BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom glaubt mir.
-BLEU: 0	Prediction: Hast du mich angelogen?	Actual:Habt ihr’s?
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom schluchzt.
-BLEU: 0.75984	Prediction: Tom liebt das.	Actual:Tom lebte allein.
-BLEU: 0.63894	Prediction: Ich werde dich vermissen.	Actual:Ich werde hier schlafen.
-BLEU: 0.5507	Prediction: Ich kenne die einer Jan.	Actual:Ich kannte Tom gut.
-BLEU: 0.70711	Prediction: Das ist ein Buch.	Actual:So viel ist sicher.
-BLEU: 0.75984	Prediction: Sind wir leid?	Actual:Brechen wir auf?
-BLEU: 0	Prediction: Schicken Sie die Türe.	Actual:Komm wieder zu dir!
-BLEU: 0.49761	Prediction: Ich war auf der Besend.	Actual:Ich war sehr beschäftigt.
-BLEU: 0.54445	Prediction: Sie sind nicht getan.	Actual:Sie sind super.
-BLEU: 0	Prediction: Fassen Sie mir das Glück.	Actual:Geh schnell nach Hause.
-BLEU: 0.54445	Prediction: Ich bin ein Tomstig.	Actual:Ich bin Lehrer.
-BLEU: 0.5507	Prediction: Tom hat eine Frau gegabt.	Actual:Tom wurde fallen gelassen.
-BLEU: 0.75984	Prediction: Sie sind verärgert.	Actual:Sie sind groß.
-BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir sind jung.
-BLEU: 0.54445	Prediction: Kontrollieren Sie es einfach.	Actual:Ignorier Tom einfach.
-BLEU: 0	Prediction: Bleib doch müchen.	Actual:Bleiben Sie bei Tom!
-BLEU: 0.56234	Prediction: Tom scheint gelassen.	Actual:Tom scheint bereit zu sein.
-BLEU: 0.54445	Prediction: Ich habe es versprochen.	Actual:Ich hab's zurückgetan.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war Zweiter.
-BLEU: 0	Prediction: Fang nicht!	Actual:Frag Tom!
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin Tom Jackson.
-BLEU: 0	Prediction: Warst du mir auf?	Actual:Ist sie nicht süß?
-BLEU: 0.66874	Prediction: Lasst mich das machen.	Actual:Lassen Sie mich mal sehen.
-BLEU: 0.75984	Prediction: Wir haben gesecht.	Actual:Wir sind da.
-BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin dick.
-BLEU: 0.49761	Prediction: Ich werde mit Tom gefangen.	Actual:Ich werde ihn fragen.
-BLEU: 0.63894	Prediction: Tom hat eine Erkältung.	Actual:Tom hat ihn gesehen.
-BLEU: 0.70711	Prediction: Tom ist ein geheißen.	Actual:Tom ist ein Verrückter.
-BLEU: 0.75984	Prediction: Du kannst allein.	Actual:Du hast gewonnen.
-BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer hat geschummelt?
-BLEU: 0.51003	Prediction: Tom hat gesprochen.	Actual:Tom jubelte.
-BLEU: 0.27953	Prediction: Niemand hat mir den Laufpass gegeben.	Actual:Niemand sah mich.
-BLEU: 0.54445	Prediction: Ich bin sehr schüchtern.	Actual:Ich bin sprachlos.
-BLEU: 0.54445	Prediction: Wir haben es gefunden.	Actual:Wir sind angekommen.
-BLEU: 0	Prediction: Sag es mir meine.	Actual:Richte Tom meinen Dank aus.
-BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat mich zurückgehalten.
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom hat gewonnen.
-BLEU: 0.63894	Prediction: Er kann nicht schwimmen.	Actual:Er kann schnell rennen.
-BLEU: 0.66874	Prediction: Ich habe dir vertraut.	Actual:Ich nannte Tom den Grund.
-BLEU: 0.63894	Prediction: Es ist deine Schuld.	Actual:Es ist frisch heute.
-BLEU: 0.56234	Prediction: Es ist schüchterbeiter.	Actual:Es ist Viertel nach neun.
-BLEU: 0.54445	Prediction: Ich bin ein Mann.	Actual:Ich bin unschuldig.
-BLEU: 0.75984	Prediction: Kannst du schwimmen?	Actual:Kannst du helfen?
-BLEU: 0.5507	Prediction: Tom hat eine Pfange aufgehört.	Actual:Tom zog sich an.
-BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat mich angeschrieben.
-BLEU: 0.56234	Prediction: Ich bin ein Tomstig.	Actual:Ich bin noch nicht soweit.
-BLEU: 0.70711	Prediction: Ich habe eine Frause.	Actual:Das mache ich auch.
-BLEU: 0	Prediction: Kannte lassen?	Actual:Großartig, nicht wahr?
-BLEU: 0.70711	Prediction: Ich habe eine Frauze.	Actual:Ich fühlte mich isoliert.
-BLEU: 0	Prediction: Verschwinde!	Actual:Verpiss dich!
-BLEU: 0.5507	Prediction: Tom hat eine Falie angebracht.	Actual:Tom kam nach Hause.
-BLEU: 0.56234	Prediction: Ich habe dir gefunden.	Actual:Ich habe einen Spaziergang gemacht.
-BLEU: 0.70711	Prediction: Sag es mir meine.	Actual:Erzähle mir einen Witz!
-BLEU: 0.63894	Prediction: Wer hat es gesagt?	Actual:Wer hat dich angestellt?
-BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich gehe jetzt.
-BLEU: 0	Prediction: Folgen Sie das mir besser!	Actual:Folgt Tom.
-BLEU: 0	Prediction: Jetzt erinnere ich einen Hund.	Actual:Es ist Zeit, aufzustehen.
-BLEU: 0.66874	Prediction: Ich habe eine Frauze.	Actual:Ich hoffe, dass Tom gewinnt.
-BLEU: 0.70711	Prediction: Tom ist nicht gut.	Actual:Tom ist nicht verletzt.
-BLEU: 0	Prediction: Ich bin aus der Nachsehn.	Actual:Mir geht es gut.
-BLEU: 0.54445	Prediction: Das ist ein Tom.	Actual:Das ist klug.
-BLEU: 0.39011	Prediction: Ich bin aus der Beset.	Actual:Ich bewundere dich.
-BLEU: 0.75984	Prediction: Sie haben gewonnen.	Actual:Sie spendeten Beifall.
-BLEU: 0.63894	Prediction: Es ist sehr schnell.	Actual:Es ist zu spät.
-BLEU: 0.54445	Prediction: Geh mir nicht auf.	Actual:Nerv mich nicht.
-BLEU: 1.0	Prediction: Tom sah gut aus.	Actual:Tom sah gut aus.
-BLEU: 0	Prediction: Können Sie schonden?	Actual:Kannst du das machen?
-BLEU: 0.70711	Prediction: Bist du nach Hause?	Actual:Meinst du das ernst?
-BLEU: 0.75984	Prediction: Nimm meinen Rat.	Actual:Nimm das hier.
-BLEU: 0.70711	Prediction: Er ist nicht großer.	Actual:Er hat eine Kamera.
-BLEU: 0.70711	Prediction: Ich habe es gefunden.	Actual:Ich habe es bekommen.
-BLEU: 0.70711	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann es nicht.
-BLEU: 0	Prediction: Ich mag das Gele.	Actual:Mir gefällt mein Job.
-BLEU: 0	Prediction: Lass mich das machen!	Actual:Hinterlassen Sie eine Nachricht!
-BLEU: 0	Prediction: Kennen Sie mich?	Actual:Leugnest du?
-BLEU: 0.75984	Prediction: Ist Tom gut?	Actual:Ist Tom da?
-BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Das ist irreführend.
-BLEU: 0.63894	Prediction: Tom hat es getannen.	Actual:Tom hat mich unterbrochen.
-BLEU: 0.63894	Prediction: Wie kann ist es?	Actual:Wie kann das sein?
-BLEU: 0.70711	Prediction: Tom kommt rut.	Actual:Tom hat sich ertüchtigt.
-BLEU: 0.70711	Prediction: Der Hund ist getrog.	Actual:Die Suppe ist heiß.
-BLEU: 0.62233	Prediction: Wir sind zu Hause.	Actual:Wir sind dabei, zu lesen.
-BLEU: 0	Prediction: Ich habe eine Frauner.	Actual:Mir geht’s hervorragend.
-BLEU: 0.51003	Prediction: Du bist gut.	Actual:Du lügst!
-BLEU: 0	Prediction: Habt ihr es getan?	Actual:Meinten Sie das ernst?
-BLEU: 0	Prediction: Setz sie auf!	Actual:Tu es drauf.
-BLEU: 0.70711	Prediction: Sie hat ihn gesehen.	Actual:Sie wird vielleicht kommen.
-BLEU: 0	Prediction: Beginnen Sie schlechen.	Actual:Beginne hier.
-BLEU: 0.75984	Prediction: Gib es mir.	Actual:Gib es Tom.
-BLEU: 0	Prediction: Behalten Sie es meine.	Actual:Lass uns in Kontakt bleiben.
-BLEU: 0.8409	Prediction: Ich sah ein Buch.	Actual:Ich sehe das Buch.
-BLEU: 0.5507	Prediction: Ich habe eine Frause gesahrt.	Actual:Ich bezahle Tom gut.
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom hat unrecht.
-BLEU: 0.70711	Prediction: Es ist sehr sicher.	Actual:Das ist ein Witz.
-BLEU: 0.54445	Prediction: Ist das eine Manausa?	Actual:Gehört das dir?
-BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Das ist blöd.
-BLEU: 0.70711	Prediction: Wie geht es dir?	Actual:Wie alt ist Tom?
-BLEU: 0.75984	Prediction: Wir kannten dich.	Actual:Wir kennen ihn.
-BLEU: 0.70711	Prediction: Tom ist nicht gut.	Actual:Tom ist nicht rechthaberisch.
-BLEU: 0	Prediction: Lasst es dort!	Actual:Lies dieses Buch.
-BLEU: 0.23505	Prediction: Ich muss mich aus den Lauf das preist.	Actual:Ich muss dagegen ankämpfen.
-BLEU: 0	Prediction: Rufen Sie die einfach.	Actual:Klapp dein Buch zu.
-BLEU: 0.70711	Prediction: Tom scheint gelassen.	Actual:Tom ist anscheinend beschäftigt.
-BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom fehlt.
-BLEU: 0.75984	Prediction: Ich war gut.	Actual:Ich war wütend.
-BLEU: 0.54445	Prediction: Ich bin ein Buch.	Actual:Ich niese oft.
-BLEU: 0.54445	Prediction: Er hat ein Buch.	Actual:Er hat Hosenträger.
-BLEU: 0	Prediction: Ruf mich schon en!	Actual:Spring drüber!
-BLEU: 0	Prediction: Komm hierher!	Actual:Trösten Sie Tom.
-BLEU: 0	Prediction: Seid nichts!	Actual:Helfen Sie uns!
-BLEU: 0.54445	Prediction: Jetzt sein ich nicht.	Actual:Ich bin beliebt.
-BLEU: 0.54445	Prediction: Er ist sehr groß.	Actual:Er ist unleidlich.
-BLEU: 0.56234	Prediction: Tom scheint gelessen.	Actual:Tom scheint benommen zu sein.
-BLEU: 0.70711	Prediction: Tom hat eine Erkältung.	Actual:Tom war anderer Meinung.
-BLEU: 0.63894	Prediction: Sie hat ihn gesehen.	Actual:Sie hat dir vertraut.
-BLEU: 0.70711	Prediction: Behalten Sie es meine.	Actual:Behaltet es für euch!
-BLEU: 0.63894	Prediction: Wie geht es dir?	Actual:Wie sehr habe ich mich verspätet?
-BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe einen Traum.
-BLEU: 0.70711	Prediction: Was hast du getan?	Actual:Was habe ich verpasst?
-BLEU: 0.75984	Prediction: Tom mag Maria.	Actual:Tom redet viel.
-BLEU: 0.70711	Prediction: Wir sind zu Hause.	Actual:Wir machen nur Spaß.
-BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Es war nicht meines.
-BLEU: 0.30935	Prediction: Wer hat es gefunden?	Actual:Wer geht?
-BLEU: 0.70711	Prediction: Ich habe eine Frau.	Actual:Ich muss es versuchen.
-BLEU: 0.30935	Prediction: Tom hat eine Erkältung.	Actual:Tom verschwand.
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom trinkt Bier.
-BLEU: 0	Prediction: Alle schießen nicht.	Actual:Jeder Mensch träumt.
-BLEU: 0.54445	Prediction: Ich bin ein Tomstig.	Actual:Ich bin unverheiratet.
-BLEU: 0.54445	Prediction: Er hat mir gesagt.	Actual:Er wurde wütend.
-BLEU: 0	Prediction: Nehmt meine.	Actual:Übernehmen Sie die Kontrolle.
-BLEU: 0.70711	Prediction: Tom hat es geschafft.	Actual:Tom wäre fast gestorben.
-BLEU: 0.64746	Prediction: Lass mich Tom anrufen.	Actual:Lass Tom los!
-BLEU: 0.75984	Prediction: Er ist schüchtern.	Actual:Er ist träge.
-BLEU: 0.56234	Prediction: Du bist ein Tom.	Actual:Du bist nicht in Form.
-BLEU: 0.54445	Prediction: Ich habe eine Fraunge.	Actual:Ich habe Grippe.
-BLEU: 0.63894	Prediction: Schau dir Tom an.	Actual:Schau mal, was ich gemacht habe!
-BLEU: 0.54445	Prediction: Ich mag das Gele.	Actual:Ich mag Filme.
-BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie lebt allein.
-BLEU: 0.54445	Prediction: Tom ist gerade angeschmalten.	Actual:Tom ist fertig.
-BLEU: 0.56234	Prediction: Es ist sehr schnell.	Actual:Es ist Zeit fürs Bett.
-BLEU: 0.54445	Prediction: Du bist mein Held.	Actual:Du bist derjenige.
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom kocht.
-BLEU: 0.63894	Prediction: Ich werde dich vermissen.	Actual:Ich werde es erwähnen.
-BLEU: 0.75984	Prediction: Hat Tom gesagt?	Actual:Hat Tom gelacht?
-BLEU: 0.62233	Prediction: Er scheint gut zur sein.	Actual:Er scheint nett zu sein.
-BLEU: 0.5507	Prediction: Ich hasse es einen Hund.	Actual:Ich aß den Apfel.
-BLEU: 0.39011	Prediction: Ich bin aus der Schuld.	Actual:Ich bin Kanadier.
-BLEU: 0.63894	Prediction: Ich mag das Gelickt.	Actual:Ich mag dich auch.
-BLEU: 0.66874	Prediction: Gib mir den Beste.	Actual:Nimm mich in den Arm!
-BLEU: 0.63894	Prediction: Es ist deine Arbeit.	Actual:Es ist heute heiß.
-BLEU: 0	Prediction: Gib es mal her.	Actual:Entschuldige, dass ich zu spät bin.
-BLEU: 0.54445	Prediction: Sie kann gehen wohl.	Actual:Sie blieb still.
-BLEU: 0.66874	Prediction: Tom ist großartig.	Actual:Tom hat einen im Tee.
-BLEU: 0.70711	Prediction: Er liebt dich.	Actual:Er ist vorzeitig gegangen.
-BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom war eifersüchtig.
-BLEU: 0.39011	Prediction: Er ist ein guter Junge.	Actual:Er ist Schriftsteller.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war unordentlich.
-BLEU: 0.70711	Prediction: Sie hat ihn gesehen.	Actual:Sie hat ihn umarmt.
-BLEU: 0.70711	Prediction: Tom hat es geschafft.	Actual:Tom hat es aufgenommen.
-BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist neu.
-BLEU: 0.63894	Prediction: Er hat ein Buch.	Actual:Er hat kein Geld.
-BLEU: 0.54445	Prediction: Ich hasse es ernst.	Actual:Ich esse Brot.
-BLEU: 0	Prediction: Nimm meine.	Actual:Pass auf dich auf!
-BLEU: 0	Prediction: Der Hund ist getrog.	Actual:Es stank im Haus.
-BLEU: 0	Prediction: Seien Sie nett!	Actual:Harre aus!
-BLEU: 0	Prediction: Es war nicht schlecht.	Actual:Er stand zum Verkauf an.
-BLEU: 0	Prediction: Bleib wog.	Actual:Bleibt zurück!
-BLEU: 0	Prediction: Sag es mir meine.	Actual:Erzähl uns einen Witz!
-BLEU: 0	Prediction: Hör auf zu schießen.	Actual:Beweg dich nicht!
-BLEU: 0.39011	Prediction: Fahren Sie mich nicht an!	Actual:Werd nicht fett.
-BLEU: 0.63894	Prediction: Du bist mein Held.	Actual:Du bist nicht Tom.
-BLEU: 0.75984	Prediction: Du scheinst gut.	Actual:Du musst hingehen.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist mittellos.
-BLEU: 0.75984	Prediction: Komm hierher!	Actual:Komm nach unten.
-BLEU: 0.5507	Prediction: Da ist es nach Haus.	Actual:Es gibt einen Haken.
-BLEU: 0.56234	Prediction: Wer hat es gesagt?	Actual:Wer hat dich denn gefragt?
-BLEU: 0.63894	Prediction: Es ist schüchterbeiter.	Actual:Es ist halb vier.
-BLEU: 0.51003	Prediction: Ist Tom auf?	Actual:Arbeitet Tom?
-BLEU: 0.75984	Prediction: Ich liebe Bernde.	Actual:Ich liebe Knoblauch.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war beängstigend.
-BLEU: 0	Prediction: Sie sind wahr.	Actual:Die irren sich.
-BLEU: 0.39011	Prediction: Ich bin aus der Schuld.	Actual:Ich bin neugierig.
-BLEU: 0.51003	Prediction: Du bist gut.	Actual:Du stirbst.
-BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht beschäftigt.
-BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom schwimmt.
-BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom war aufgeregt.
-BLEU: 0.51003	Prediction: Tom scheint geschlacht.	Actual:Tom raucht.
-BLEU: 0.8409	Prediction: Bleib weg!	Actual:Bleib unten!
-BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Buch.
-BLEU: 0.8409	Prediction: Es ist deine Arbeit.	Actual:Heute ist es heiß.
-BLEU: 0.70711	Prediction: Ich bin ein Tomstig.	Actual:Ich bin ein Nachtmensch.
-BLEU: 0.54445	Prediction: Er war nicht wahr.	Actual:Er war zuhause.
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom kichert.
-BLEU: 0.66874	Prediction: Er liebt die Hand.	Actual:Er ließ einen Drachen steigen.
-BLEU: 0.54445	Prediction: Wer hat es gefunden?	Actual:Wer war hier?
-BLEU: 0.8409	Prediction: Alle weiter.	Actual:Paddel weiter!
-BLEU: 0.70711	Prediction: Darf ich einen Bucherhauten?	Actual:Kann ich es anprobieren?
-BLEU: 0.75984	Prediction: Tom scheint bleiben.	Actual:Tom wurde ohnmächtig.
-BLEU: 0.75984	Prediction: Bist du neugleibe?	Actual:Bist du sicher?
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin kein Spion.
-BLEU: 0.75984	Prediction: Lasst uns anfangen!	Actual:Lasst uns gehen.
-BLEU: 0.75984	Prediction: Bist du neugleibe?	Actual:Bist du unglücklich?
-BLEU: 0.63894	Prediction: Können Sie schwimmen?	Actual:Können Sie es öffnen?
-BLEU: 0	Prediction: Nimm mit der Angst.	Actual:Tun Sie mir den Gefallen.
-BLEU: 0	Prediction: Behaltet es zu.	Actual:Kein Zutritt.
-BLEU: 0.70711	Prediction: Sie hat ihn gefunden.	Actual:Sie ist spät aufgestanden.
-BLEU: 0.54445	Prediction: Ich brauche einen Hund.	Actual:Ich brauche Sie.
-BLEU: 0.54445	Prediction: Tom hat eine Frau.	Actual:Tom hat Durchhaltevermögen.
-BLEU: 0.75984	Prediction: Wo waren Sie?	Actual:Wo bist du?
-BLEU: 0.56234	Prediction: Das Leben ist ein Buch.	Actual:Das Leben ist nicht gerecht.
-BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Scherz.
-BLEU: 0	Prediction: Da ist eine Falle.	Actual:Ihre Blicke trafen sich.
-BLEU: 0.70711	Prediction: Geh nicht weh.	Actual:Beachte mich gar nicht!
-BLEU: 0.75984	Prediction: Du kannst aushuhei.	Actual:Du bist gut.
-BLEU: 0.63894	Prediction: Sie ist ein gemacht.	Actual:Sie ist mein Typ.
-BLEU: 0.30935	Prediction: Tom hat eine Frau.	Actual:Tom humpelt.
-BLEU: 0.54445	Prediction: Da ist eine Glaus.	Actual:Dort ist Tom.
-BLEU: 0.63894	Prediction: Das ist ein Buch.	Actual:Das ist deine Aufgabe.
-BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist durchnässt.
-BLEU: 0.70711	Prediction: Ich brauche einen Hund.	Actual:Ich muss mich konzentrieren.
-BLEU: 0.63894	Prediction: Wir sind zu Hause.	Actual:Wir sind die Besten.
-BLEU: 0	Prediction: Sag es mir der Laufall.	Actual:Sprich die Wahrheit!
-BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das steht fest.
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist nass.
-BLEU: 0.75984	Prediction: Er schriecht gut.	Actual:Er bemüht sich.
-BLEU: 0.66874	Prediction: Geh nicht weh.	Actual:Beachten Sie mich gar nicht!
-BLEU: 0.63894	Prediction: Ich mag Spaß.	Actual:Ich mag das Französische.
-BLEU: 0.75984	Prediction: Tom war aufreitig.	Actual:Tom wurde alarmiert.
-BLEU: 0.63894	Prediction: Sie sind verloren.	Actual:Die haben sie nicht mehr alle!
-BLEU: 0.70711	Prediction: Tom hat eine Frau.	Actual:Tom hat eine Karte.
-BLEU: 0.8409	Prediction: Wer schrimm?	Actual:Wer fastet?
-BLEU: 0	Prediction: Frag einen Han.	Actual:Streng dich mehr an.
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin nicht bestürzt.
-BLEU: 0.70711	Prediction: Ich habe eine Frau.	Actual:Ich gehe zur Kirche.
-BLEU: 0.70711	Prediction: Er sieht blaus aus.	Actual:Er sieht jung aus.
-BLEU: 0.54445	Prediction: Ich habe eine Katze.	Actual:Ich habe Geld.
-BLEU: 0	Prediction: Schließe die Türe.	Actual:Mach deine Augen zu.
-BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom blinzelte.
-BLEU: 0.70711	Prediction: Wie geht es!	Actual:Wie die Zeit vergeht.
-BLEU: 0	Prediction: Du kannst es gehen.	Actual:Ihr wart tapfer.
-BLEU: 0.75984	Prediction: Wo waren Sie?	Actual:Wo sind wir?
-BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht dünn.
-BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist Tom fertig?
-BLEU: 0	Prediction: Geh mir nicht auf die Nerven.	Actual:Nur Tom lächelte.
-BLEU: 0.63894	Prediction: Ich bin ein Mann.	Actual:Ich bin ganz Ohr.
-BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich bin froh.
-BLEU: 0.75984	Prediction: Du solltest gehen.	Actual:Du solltest kommen.
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom hatte Erfolg.
-BLEU: 0.8409	Prediction: Ist das ein Freund?	Actual:Ist dies ein Fluß?
-BLEU: 0	Prediction: Rufen Sie die einen aus.	Actual:Japan ist eigenartig.
-BLEU: 0.75984	Prediction: Seie ich dick?	Actual:Kenne ich Tom?
-BLEU: 0	Prediction: Lies mich nicht haren!	Actual:Zitronen sind sauer.
-BLEU: 0	Prediction: Lassen Sie mich an!	Actual:Die Liebe bleibt.
-BLEU: 0	Prediction: Wir sind zu Hause.	Actual:Uns ist schwindlig.
-BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom wurde schläfrig.
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom stirbt.
-BLEU: 0.63894	Prediction: Wir sind zu Hause.	Actual:Wir sind spät dran.
-BLEU: 0.54445	Prediction: Tom hatte eine Erkältung.	Actual:Tom musste laufen.
-BLEU: 0.70711	Prediction: Wo ist mein Vater?	Actual:Wo ist mein Kamm?
-BLEU: 0.56234	Prediction: Ich werde mit Tom gefangen.	Actual:Ich werde es dir sagen.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist mein Satz!
-BLEU: 0	Prediction: Bist du nach Hause?	Actual:Seid ihr beschäftigt?
-BLEU: 0.54445	Prediction: Er ist das Graus.	Actual:Er hatte Kopfschmerzen.
-BLEU: 0.18763	Prediction: Fahren Sie mich nicht an!	Actual:Komm nicht.
-BLEU: 0	Prediction: Mach die Flasse auf.	Actual:Öffnet das Tor!
-BLEU: 0.30935	Prediction: Ich habe es gefunden.	Actual:Ich improvisierte.
-BLEU: 0.54445	Prediction: Bitte geh euf ih.	Actual:Enspannt euch bitte.
-BLEU: 0.30935	Prediction: Tom hat es geschlagen.	Actual:Tom tanzte.
-BLEU: 0.49761	Prediction: Ich bin aus der Stilt.	Actual:Ich bin noch jung.
-BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind ruhig.
-BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Das wird nicht funktionieren.
-BLEU: 0	Prediction: Du kannst aushuhei.	Actual:Sie brauchen es.
-BLEU: 0	Prediction: Komm mit mir.	Actual:Kommen Sie mich besuchen.
-BLEU: 0.75984	Prediction: Komm hierher!	Actual:Komm schon, Tom!
-BLEU: 0.30935	Prediction: Tom hat es geschafft.	Actual:Tom rief.
-BLEU: 0.63894	Prediction: Was ist das freitet?	Actual:Was ist hier los?
-BLEU: 0.75984	Prediction: Ich war gut.	Actual:Ich war bestürzt.
-BLEU: 0.64746	Prediction: Sie hat ihn gesehen.	Actual:Sie liebt ihn.
-BLEU: 0.54445	Prediction: Ich bin sehr geschieren.	Actual:Ich bin untröstlich.
-BLEU: 0.39011	Prediction: Tom kann sich einmal naher.	Actual:Tom kann sprechen.
-BLEU: 0.70711	Prediction: Ich mag dein Hund.	Actual:Ich mag den Hund.
-BLEU: 0.30935	Prediction: Was ist das freitel?	Actual:Was fehlt?
-BLEU: 0.54445	Prediction: Es war nicht schlecht.	Actual:Es war perfekt.
-BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie wachte auf.
-BLEU: 0.54445	Prediction: Er ist ein gelassen.	Actual:Er hat Schmerzen.
-BLEU: 0.63894	Prediction: Wer hat es gesagt?	Actual:Wer hat sie gefunden?
-BLEU: 0.54445	Prediction: Sie war nicht schwer.	Actual:Sie war naiv.
-BLEU: 0.79527	Prediction: Er sang ein Buch.	Actual:Er hat ein Lied gesungen.
-BLEU: 0.75984	Prediction: Tom kannte sich.	Actual:Tom kannte sie.
-BLEU: 0	Prediction: Fang nicht!	Actual:Fangen Sie noch mal von vorne an.
-BLEU: 0.42888	Prediction: Was ist das für ein Ding?	Actual:Wie ist Tom so?
-BLEU: 0	Prediction: Nimm deinen gut angeher!	Actual:Nutze sie alle.
-BLEU: 0.54445	Prediction: Schauen Sie genauer hin.	Actual:Schaut genau hin.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war dumm.
-BLEU: 0.51003	Prediction: Tom hat gesprochen.	Actual:Tom döste.
-BLEU: 0.47287	Prediction: Sie hat ihn gesehen.	Actual:Sie hat ihn in Versuchung geführt.
-BLEU: 0.56234	Prediction: Ich werde dich vermissen.	Actual:Ich werde mich darum kümmern.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist schrecklich.
-BLEU: 0.70711	Prediction: Ich sah ein Buch.	Actual:Ich sah ein UFO.
-BLEU: 0.70711	Prediction: Ich liebe den Gelist.	Actual:Ich schwimme sehr gern.
-BLEU: 0.75984	Prediction: Ich war schlecht.	Actual:Ich war wach.
-BLEU: 0.54445	Prediction: Du bist so sauf.	Actual:Du bist bestürzt.
-BLEU: 0.70711	Prediction: Es ist schwerzelig.	Actual:Das ist eine Modeerscheinung.
-BLEU: 0.66874	Prediction: Lass mich gehen!	Actual:Lassen Sie mich mal sehen.
-BLEU: 0.54445	Prediction: Tom ist ein geheißen.	Actual:Tom ist berühmt.
-BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Pack dich!
-BLEU: 0.51003	Prediction: Ist es das?	Actual:Schmeckt es?
-BLEU: 0.54445	Prediction: Behalten Sie es meine.	Actual:Halte es einfach!
-BLEU: 0	Prediction: Niemand hat angerufen.	Actual:Perfekt!
-BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie mag Wein.
-BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom ertrank.
-BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist Tom da?
-BLEU: 0.54445	Prediction: Bitte geh euf Tom!	Actual:Bitte tu es.
-BLEU: 0.56234	Prediction: Darf ich mich setzen?	Actual:Kann ich mich euch anschließen?
-BLEU: 0.54445	Prediction: Wir haben es gefunden.	Actual:Wir mussten kommen.
-BLEU: 0.56234	Prediction: Tom ist ein Eine.	Actual:Tom ist ein hoffnungsloser Fall.
-BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat Milch getrunken.
-BLEU: 0	Prediction: Schauen Sie zurück.	Actual:Schau nach hinten!
-BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich spreche gerade.
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin eine Optimistin.
-BLEU: 0.63894	Prediction: Lass es dort!	Actual:Lassen Sie es dort!
-BLEU: 0.54445	Prediction: Lasst uns essen gehen!	Actual:Lass uns zurückgehen.
-BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom sah ihn.
-BLEU: 0.70711	Prediction: Ich habe eine Frause.	Actual:Ich höre die Trommel.
-BLEU: 0.54445	Prediction: Tom ist ein gelassen.	Actual:Tom ist Kanadier.
-BLEU: 0.75984	Prediction: Tom scheint geschlacht.	Actual:Tom kam vorbei.
-BLEU: 0	Prediction: Beginnen Sie zu leine.	Actual:Rührt euch!
-BLEU: 0.70711	Prediction: Tom schläft.	Actual:Tom ist am Gewinnen.
-BLEU: 0.9306	Prediction: Ist Tom nicht schwer?	Actual:Ist das nicht Tom?
-BLEU: 0.75984	Prediction: Wir sind verloren.	Actual:Wir sind schrecklich.
-BLEU: 0.49761	Prediction: Wir werden es mir sein.	Actual:Wir werden hier warten.
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom eilte davon.
-BLEU: 0.54445	Prediction: Tom ist gerade angeschmalten.	Actual:Tom ist betrunken.
-BLEU: 0.54445	Prediction: Ich habe eine Frau.	Actual:Ich muss lernen.
-BLEU: 0	Prediction: Komm mit.	Actual:Ignorier Tom.
-BLEU: 0	Prediction: Setz dich!	Actual:Legen Sie es hin!
-BLEU: 0	Prediction: Ich bin sehr geschlafen.	Actual:Entschuldigung!
-BLEU: 0	Prediction: Ruf mich sagen mit!	Actual:Rufe das FBI.
-BLEU: 0.5507	Prediction: Ich bin aus der Nachen.	Actual:Ich werde bald sterben.
-BLEU: 0	Prediction: Weiter so!	Actual:Gut gemacht, Tom!
-BLEU: 0.70711	Prediction: Ich war gut.	Actual:Ich habe mich geirrt.
-BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist haarsträubend.
-BLEU: 0.54445	Prediction: Tom hat eine Fassung.	Actual:Tom hat geheiratet.
-BLEU: 0	Prediction: Ich bin aus der Beset.	Actual:Es ist mir egal.
-BLEU: 0.66874	Prediction: Beginnen Sie noch einmal.	Actual:Fangen Sie an zu laufen.
-BLEU: 0.70711	Prediction: Wir haben es gesehen.	Actual:Wir meldeten uns freiwillig.
-BLEU: 0	Prediction: Du bist gut.	Actual:Ihr liegt im Sterben.
-BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie riecht übel.
-BLEU: 0.30935	Prediction: Das ist ein Tom.	Actual:Das reicht.
-BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir fürchten uns.
-BLEU: 0	Prediction: Behalten Sie es mal.	Actual:Bleib gelassen!
-BLEU: 0.62233	Prediction: Das ist ein Buch.	Actual:Das hier ist ein Löwe.
-BLEU: 0.49761	Prediction: Ich bin aus der Nachen.	Actual:Ich bin am Verlieren.
-BLEU: 0	Prediction: Versuchen Sie duch!	Actual:Raus!
-BLEU: 0.54445	Prediction: Er hat mich betrogen.	Actual:Er wurde reich.
-BLEU: 0.70711	Prediction: Tom kann es herein.	Actual:Tom rannte nach innen.
-BLEU: 0.70711	Prediction: Wir wollen eine Falle.	Actual:Wir fragen uns, wieso.
-BLEU: 0.63894	Prediction: Ich habe eine Katze.	Actual:Ich habe ein Zuhause.
-BLEU: 1.0	Prediction: Er kann nicht schwimmen.	Actual:Er kann nicht schwimmen.
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin TV-süchtig.
-BLEU: 0	Prediction: Feher is der Tom.	Actual:Seien Sie leise.
-BLEU: 0.70711	Prediction: Bist du nach Hause?	Actual:Hast du zu tun?
-BLEU: 0	Prediction: Lass es mich sieben!	Actual:Lassen Sie uns allein.
-BLEU: 0.75984	Prediction: Ist Tom gut?	Actual:Ist Tom betrunken?
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom vertraute ihm.
-BLEU: 0.65489	Prediction: Bitte setzen Sie sich hierhin.	Actual:Unterlassen Sie das bitte.
-BLEU: 0.30935	Prediction: Tom wird es versuchen.	Actual:Tom kommt.
-BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist kindisch.
-BLEU: 0	Prediction: Seigt mal dure.	Actual:Selbst Tom lächelte.
-BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich sehe ihn nicht.
-BLEU: 0	Prediction: Schreib mit auf.	Actual:Benimm dich wie ein Mann!
-BLEU: 0.56234	Prediction: Ich werde mit Tom gefangen.	Actual:Ich werde es mir ansehen.
-BLEU: 0.54445	Prediction: Sie kann gehen wohlen.	Actual:Sie spielt Bach.
-BLEU: 0.54445	Prediction: Tom sieht gut aus.	Actual:Tom hat verschlafen.
-BLEU: 0.54445	Prediction: Nimm meinen Rat an.	Actual:Nimm meinen Mantel.
-BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom stieß auf.
-BLEU: 0.56234	Prediction: Ich habe eine Frausere.	Actual:Ich habe das Abendessen zubereitet.
-BLEU: 0.54445	Prediction: Tom ist gerade angeschmalten.	Actual:Tom ist verletzt.
-BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich bin ruiniert.
-BLEU: 0.30182	Prediction: Tom hat eine Pfange auf dein Laus.	Actual:Tom hat nicht bestanden.
-BLEU: 0.63894	Prediction: Tom wird es versuchen.	Actual:Tom wird bereit sein.
-BLEU: 0	Prediction: Bist du nach Hause?	Actual:Geht es dir gut?
-BLEU: 0.8409	Prediction: Das ist ein Buch.	Actual:So ist das Leben!
-BLEU: 0.56234	Prediction: Ich habe eine Frauge.	Actual:Ich habe oft einen Schluckauf.
-BLEU: 0.70711	Prediction: Tom ist nicht gut.	Actual:Tom ist nicht bereit.
-BLEU: 0	Prediction: Behalten Sie es mir.	Actual:Immer lächeln.
-BLEU: 0	Prediction: Esst auf die Straße.	Actual:Iss alles.
-BLEU: 0.8409	Prediction: Der Mann ist beschäftigt.	Actual:Der Soldat ist gerannt.
-BLEU: 0.70711	Prediction: Da ist deinen Hund.	Actual:Hier ist der Plan.
-BLEU: 0.64746	Prediction: Tom ist nicht gemein.	Actual:Tom lügt nicht.
-BLEU: 0.70711	Prediction: Es ist sehr sicher.	Actual:Das ist meine Arbeit.
-BLEU: 0.54445	Prediction: Mach die Tür auf.	Actual:Öffne die Tür.
-BLEU: 0.54445	Prediction: Er liebt die Stul.	Actual:Er liebt Kaffee.
-BLEU: 0	Prediction: Hast du mich?	Actual:Echt?
-BLEU: 0.54445	Prediction: Wir brauchen eine Karte.	Actual:Wir vermissen Tom.
-BLEU: 0.5507	Prediction: Er ist ein guter Junge.	Actual:Er ist ein Gesetzloser.
-BLEU: 0.30935	Prediction: Wir sind zu Hause.	Actual:Wir schießen.
-BLEU: 0.70711	Prediction: Kann ich mich helassen?	Actual:Darf ich sie anfassen?
-BLEU: 0.8409	Prediction: Tom ist nicht gemein.	Actual:Tom hat nicht Recht.
-BLEU: 0	Prediction: Du hast es versucht.	Actual:Ihr könntet die Führung übernehmen.
-BLEU: 0.54445	Prediction: Es ist sehr schüchtern.	Actual:Heute ist Mittwoch.
-BLEU: 0.51003	Prediction: Du kannst allein.	Actual:Du stinkst.
-BLEU: 0.39011	Prediction: Bin ich ein Hund an?	Actual:Bin ich verliebt?
-BLEU: 0.63894	Prediction: Tom hat geschlafen.	Actual:Tom hat es versucht.
-BLEU: 0.79527	Prediction: Mach die Flasse auf.	Actual:Machen Sie die Flasche auf.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist betrunken.
-BLEU: 0	Prediction: Stiel dant!	Actual:Sagenhaft!
-BLEU: 0.75984	Prediction: Sie sind verärgert.	Actual:Sie sind beschäftigt.
-BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:So lautet das Gesetz.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist eifersüchtig.
-BLEU: 0	Prediction: Ich bin aus der Nachen.	Actual:Mir geht es gut.
-BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer sind sie?
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin kein Baby.
-BLEU: 0	Prediction: Das war kommen.	Actual:Dies wird klappen.
-BLEU: 0.54445	Prediction: Ich habe eine Frauge.	Actual:Ich lese oft.
-BLEU: 0	Prediction: Schau gun zu.	Actual:Beobachten Sie uns.
-BLEU: 0.63894	Prediction: Tom ist geladen.	Actual:Tom ist im Ruhestand.
-BLEU: 0.70711	Prediction: Das Leben ist kurz.	Actual:Das Leben ist verrückt.
-BLEU: 0	Prediction: Versuchen Sie duch!	Actual:Aus dem Bett mit dir!
-BLEU: 0.75984	Prediction: Ich werde gerade.	Actual:Ich werde bleiben.
-BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Schießt zurück.
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom fällt.
-BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist liebenswert.
-BLEU: 0.65111	Prediction: Ich habe eine Frau zu gesten.	Actual:Ich weiß das zu schätzen.
-BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom hat Talent.
-BLEU: 0.65489	Prediction: Kann ich mich nutze sehen?	Actual:Kann er uns sehen?
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist ordentlich.
-BLEU: 0.75984	Prediction: Er sieht blüssel.	Actual:Er sang weiter.
-BLEU: 0.51003	Prediction: Es hat geschnaut.	Actual:Es brannte.
-BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war drinnen.
-BLEU: 0.54445	Prediction: Es ist sehr schüchtern.	Actual:Das ist verboten.
-BLEU: 0.66874	Prediction: Es war zu schnell.	Actual:Es ist 7:45 Uhr.
-BLEU: 0	Prediction: Der Mann ist beschäftigt.	Actual:Die Blätter sind gefallen.
-BLEU: 0.54445	Prediction: Tom wird es versuchen.	Actual:Tom wird folgen.
-BLEU: 0.63894	Prediction: Sie ist nicht gut.	Actual:Sie ist in Gefahr.
-BLEU: 0	Prediction: Bier ihn auf.	Actual:Warnen Sie Tom.
-BLEU: 0.63894	Prediction: Lasst uns Tom sehen.	Actual:Lassen Sie uns ein Taxi nehmen!
-BLEU: 0.20029	Prediction: Ich muss mich aus den Lauf drautend.	Actual:Ich muss rausgehen.
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom hustet.
-BLEU: 0.54445	Prediction: Was für ein Tom?	Actual:Was brauche ich?
-BLEU: 0	Prediction: Niemand hat aufgesahnt.	Actual:Keiner ist glücklich.
-BLEU: 0.63894	Prediction: Du kannst aushören.	Actual:Du gehst mir auf die Nerven.
-BLEU: 0.56234	Prediction: Tom hat es geschafft.	Actual:Tom hat das da gefunden.
-BLEU: 0.42888	Prediction: Niemand hat mir den Laufpass gegeben.	Actual:Niemand war zu Hause.
-BLEU: 0.54445	Prediction: Ich brauche einen Hund.	Actual:Ich benötige sie.
-BLEU: 0.70711	Prediction: Ich liebe Sparis.	Actual:Ich habe euch geliebt.
-BLEU: 0	Prediction: Komm mit mir.	Actual:Kommt mich besuchen.
-BLEU: 0.54445	Prediction: Tom ist ein gelassen.	Actual:Tom ist erwachsen.
-BLEU: 0.5507	Prediction: Tu drießen Sie mich nicht.	Actual:Fass es nicht an.
-BLEU: 0.49761	Prediction: Ist Tom auf der Mann?	Actual:Ist Tom ein Genie?
-BLEU: 0	Prediction: Es klang einfach.	Actual:Er passt nicht.
-BLEU: 0.75984	Prediction: Tom war erwastet.	Actual:Tom war hungrig.
-BLEU: 0.66874	Prediction: Ich will eine Falle.	Actual:Ich hätte gern ein Glas.
-BLEU: 0	Prediction: Du bist gut.	Actual:Das kann nicht euer Ernst sein!
-BLEU: 0.70711	Prediction: Wir wollen es hier.	Actual:Wir sind alle gestanden.
-BLEU: 0.63894	Prediction: Tom hat eine Fassumangereben.	Actual:Tom hat mir vergeben.
-BLEU: 0.54445	Prediction: Tom hat eine Erkäutet.	Actual:Tom zeichnet gut.
-BLEU: 0	Prediction: Sei nicht tum.	Actual:Pandas sind niedlich.
-BLEU: 0.70711	Prediction: Es ist sehr schnell.	Actual:Es liegt bei dir.
-BLEU: 0	Prediction: Geh mir nicht auf.	Actual:Tu ihm nichts!
-BLEU: 0.70711	Prediction: Das ist ein Buch.	Actual:Das ist ein Hotel.
-BLEU: 0.75984	Prediction: Tom ist gerade.	Actual:Tom ist wütend.
-BLEU: 0	Prediction: Bist du nicht so schlafen?	Actual:Ist mit dir alles in Ordnung, Tom?
-BLEU: 0.75984	Prediction: Tom kennt sie.	Actual:Tom kennt es.
-BLEU: 0	Prediction: Sollen Sie sich draußen!	Actual:Entspann dich einfach!
-BLEU: 0.70711	Prediction: Der Mann ist besserzt.	Actual:Das Zimmer ist heiß.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist nicht schlecht.
-BLEU: 0.49761	Prediction: Ich bin auf der Lasen.	Actual:Ich bin kein Engländer.
-BLEU: 0.54445	Prediction: Ich habe eine Frause.	Actual:Ich muss arbeiten.
-BLEU: 0.51003	Prediction: Gehen Sie schlafen!	Actual:Gehe schlafen!
-BLEU: 0.63894	Prediction: Sie hat ihn gesehen.	Actual:Sie hat ihm vergeben.
-BLEU: 0.30182	Prediction: Tom hat eine Pfange auf dein Laus.	Actual:Tom hat nicht angerufen.
-BLEU: 0.63894	Prediction: Ich hasse es einverstanden.	Actual:Ich hasse den Winter.
-BLEU: 0.54445	Prediction: Ich habe es gefunden.	Actual:Ich umarmte Tom.
-BLEU: 0	Prediction: Fahre mich nicht helfen!	Actual:Fahren Sie vorsichtig.
-BLEU: 0.75984	Prediction: Wird kommen Tom.	Actual:Frauen hassen Tom.
-BLEU: 0.63894	Prediction: Es war nicht schlecht.	Actual:Es war so dunkel.
-BLEU: 0	Prediction: Rehe dies!	Actual:Setzt euch mit Tom in Verbindung.
-BLEU: 0.70711	Prediction: Ich habe eine Frauze.	Actual:Ich hatte zwei Hunde.
-BLEU: 0.75984	Prediction: Wir brauchen dich.	Actual:Wir brauchen euch.
-BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom machte Abendessen.
-BLEU: 0	Prediction: Sei nicht in der Nähe!	Actual:Augenblickchen!
-BLEU: 0	Prediction: Verschwinde!	Actual:Mach dich fort!
-BLEU: 0.70711	Prediction: Tom war nicht gemacht.	Actual:Tom war nicht beschäftigt.
-BLEU: 0.63894	Prediction: Tom ist ein geheißen.	Actual:Tom ist gerade beschäftigt.
-BLEU: 0.54445	Prediction: Wir brauchen einen Hund.	Actual:Wir müssen essen.
-BLEU: 0.70711	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann nicht malen.
-BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin dir böse.
-BLEU: 0.8409	Prediction: Wie seltsam!	Actual:Wie schlau!
-BLEU: 0.70711	Prediction: Win werden es hier.	Actual:Wir wollen es zurückhaben.
-BLEU: 0	Prediction: Sellen wir uns einer aus!	Actual:Sogar Tom hat gelogen.
-BLEU: 0.8409	Prediction: Was für ein Tom?	Actual:Was wird Tom gewinnen?
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist untreu.
-BLEU: 0.8409	Prediction: Lass mich das machen.	Actual:Lass Tom fertig machen.
-BLEU: 0.27953	Prediction: Tom hat eine Frau zu gesten.	Actual:Tom aß allein.
-BLEU: 0.70711	Prediction: Ich konnte mich nicht.	Actual:Ich rief ihn an.
-BLEU: 0.65489	Prediction: Meine Aute ist es wein.	Actual:Meine Katze ist weiß.
-BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist sorglos.
-BLEU: 0.8409	Prediction: Es war nicht schlecht.	Actual:Es wird nicht schaden.
-BLEU: 0.70711	Prediction: Ich habe es gefunden.	Actual:Ich habe Sie gefunden.
-BLEU: 0.70711	Prediction: Ich werde dich vermissen.	Actual:Ich werde dich einladen.
-BLEU: 0.54445	Prediction: Ist das ein Frau?	Actual:Ist das ungewöhnlich?
-BLEU: 0.54445	Prediction: Sie kann gehen weh.	Actual:Sie braucht sie.
-BLEU: 0.56234	Prediction: Folgen Sie diesem Auto.	Actual:Fahren Sie diesem Wagen hinterher.
-BLEU: 0.63894	Prediction: Ich bin sehr schüchtern.	Actual:Ich bin immer beschäftigt.
-BLEU: 0.70711	Prediction: Tom sah dich gelassen.	Actual:Tom saß ruhig da.
-BLEU: 0.54445	Prediction: Lasst uns Tom sehen.	Actual:Entlassen wir Tom.
-BLEU: 0.70711	Prediction: Ich will eine Falle.	Actual:Ich besitze dieses Auto.
-BLEU: 0	Prediction: Seien Sie nett zu scheinen.	Actual:Sei ein Mann!
-BLEU: 0.75984	Prediction: Sag es mir.	Actual:Sag „Ah!“
-BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist einfach.
-BLEU: 0.75984	Prediction: Wartet mal!	Actual:Warten Sie mal!
-BLEU: 0.60653	Prediction: Warte mal kurz.	Actual:Warte mal!
-BLEU: 0.75984	Prediction: Tom liebt Murik.	Actual:Tom geht schnell.
-BLEU: 0.56234	Prediction: Du scheinst beschäftigt aus.	Actual:Du scheinst bestürzt zu sein.
-BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir machen Witze.
-BLEU: 0.60428	Prediction: Er ist ein guter Junge.	Actual:Er ist ein unmöglicher Junge.
-BLEU: 0.75984	Prediction: Tom schläft.	Actual:Tom ist aufgeschlossen.
-BLEU: 0.39011	Prediction: Ich bin auf der Lasen.	Actual:Ich bin kurzsichtig.
-BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom schläft.
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom hinterging mich.
-BLEU: 0.70711	Prediction: Er hat mich angelogen.	Actual:Er könnte es machen.
-BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom wurde betrogen.
-BLEU: 0.49761	Prediction: Ich bin aus der Nachen.	Actual:Ich bin am Dösen.
-BLEU: 0	Prediction: Halte Tom auf die Straße.	Actual:Moment mal!
-BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist präzise.
-BLEU: 0.51003	Prediction: Du kannst es mit meinen gehen.	Actual:Das kannst du behalten.
-BLEU: 0.63894	Prediction: Ist es das?	Actual:Ist es zu groß?
-BLEU: 0.54445	Prediction: Tom schaut eine Falle.	Actual:Tom sprach zuerst.
-BLEU: 0.56234	Prediction: Ich habe eine Frau.	Actual:Ich habe 10 Füller dabei.
-BLEU: 0	Prediction: Du kannst allein.	Actual:Sie stinken.
-BLEU: 0.56234	Prediction: Tom ist ein Eine.	Actual:Tom ist zu sehr beschäftigt.
-BLEU: 0.30935	Prediction: Das ist ein Tom.	Actual:Das stimmt.
-BLEU: 0.63894	Prediction: Ich bin sehr geschieren.	Actual:Ich bin so dick.
-BLEU: 1.0	Prediction: Tom wird gehen.	Actual:Tom wird gehen.
-BLEU: 0.75984	Prediction: Tom scheint gelassen.	Actual:Tom wirkt pingelig.
-BLEU: 0	Prediction: Mein Faus ist so gefunden.	Actual:Ich heiße Tom.
-BLEU: 0.66874	Prediction: Ich muss mich sehen.	Actual:Ich habe Tom falsch eingeschätzt.
-BLEU: 0.54445	Prediction: Er war nicht wahr.	Actual:Er war perfekt.
-BLEU: 0	Prediction: Du scheinst gut zu sein.	Actual:Sie sollten hingehen.
-BLEU: 0.30935	Prediction: Wir sind zu Hause.	Actual:Wir fasten.
-BLEU: 0.18763	Prediction: Ich bin aus der Nachen.	Actual:Ich huste.
-BLEU: 0.30935	Prediction: Wie kommen ist dran.	Actual:Wie romantisch!
-BLEU: 0.63894	Prediction: Es ist nicht einfach.	Actual:Das ist nicht lustig!
-BLEU: 0.75984	Prediction: Ich war schlecht.	Actual:Ich wurde gefoltert.
-BLEU: 0.63894	Prediction: Tom ist ein geheimet.	Actual:Tom ist nicht hier.
-BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Das ist Gift.
-BLEU: 0.75984	Prediction: Jetzt schmerzen Tom!	Actual:Jetzt nicht bewegen!
-BLEU: 0.42888	Prediction: Was ist das für ein Ding?	Actual:Wozu ist es gut?
-BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht Tom.
-BLEU: 0	Prediction: Geh mir nicht auf.	Actual:Versucht euch zu erinnern!
-BLEU: 0	Prediction: Komm hierher!	Actual:Legen Sie ihm Handschellen an.
-BLEU: 0.70711	Prediction: Es ist schwerzelig.	Actual:Das ist meine Arbeit.
-BLEU: 0.75984	Prediction: Tom mag Mahn.	Actual:Tom mag Rock.
-BLEU: 0.5507	Prediction: Ich kann es nicht sehen.	Actual:Ich kann nicht stehen.
-BLEU: 0.63894	Prediction: Wer hat es getan?	Actual:Wer hat sie jetzt?
-BLEU: 0.70711	Prediction: Rufe die einfach auf.	Actual:Mach die Türe zu.
-BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer hat aufgehört?
-BLEU: 0.70711	Prediction: Hör auf zu schießen.	Actual:Hör auf zu starren.
-BLEU: 0.75984	Prediction: Ich liebe Sparis.	Actual:Ich liebe Reisen.
-BLEU: 0	Prediction: Sei nicht tum.	Actual:Pandas sind süß.
-BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist weg.
-BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist eine Tatsache.
-BLEU: 0.70711	Prediction: Tom ist ein geheißen.	Actual:Tom ist ein Verrückter.
-BLEU: 0.70711	Prediction: Die Faurr ist getan.	Actual:Das Auto ist blau.
-BLEU: 0	Prediction: Verschwinde!	Actual:Scher dich weg!
-BLEU: 0.70711	Prediction: Wie geht es dir?	Actual:Wie ist die Lage?
-BLEU: 0.54445	Prediction: Hör auf zu schießen.	Actual:Hör auf damit!
-BLEU: 0.75984	Prediction: Sie haben gewonnen.	Actual:Sie umarmten sich.
-BLEU: 0.39011	Prediction: Tom hat eine Pfange aufgehört.	Actual:Tom schoss zuerst.
-BLEU: 0.54445	Prediction: Ich brauche einen Hund.	Actual:Ich muss aufhören.
-BLEU: 0.5507	Prediction: Ich bin aus der Beset.	Actual:Ich habe nichts dagegen.
-BLEU: 0.75984	Prediction: Lasst uns essen!	Actual:Lass uns anfangen!
-BLEU: 0	Prediction: Kannst du schwimmen?	Actual:Könnt ihr helfen?
-BLEU: 0	Prediction: Die Tasse ist glaus.	Actual:Das Tor ging auf.
-BLEU: 0.70711	Prediction: Geh nicht weh.	Actual:Beachtet mich gar nicht!
-BLEU: 0.54445	Prediction: Wasch dir das Gesetzt.	Actual:Wasch deine Füße.
-BLEU: 0.66874	Prediction: Sie hat ihn gesehen.	Actual:Sie gab ihm eine Ohrfeige.
-BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom sprach.
-BLEU: 0.70711	Prediction: Ich liebe mich ause.	Actual:Ich spiele mit ihm.
-BLEU: 0	Prediction: Nimm deinen Hut an!	Actual:Mache dich bereit zu sterben!
-BLEU: 0.75984	Prediction: Wir sind verloren.	Actual:Wir sind dankbar.
-BLEU: 0.70711	Prediction: Ich bin sehr geschäftigt.	Actual:Ich bin sehr beschäftigt.
-BLEU: 0.54445	Prediction: Wir haben es gefunden.	Actual:Wir haben Besuch.
-BLEU: 0.5507	Prediction: Tom scheint beschäftigt zu sein.	Actual:Tom hat gut gewählt.
-BLEU: 0	Prediction: Du scheint bleiben.	Actual:Sie sind so gütig.
-BLEU: 0.54445	Prediction: Hör auf zu schießen.	Actual:Halte Tom auf!
-BLEU: 0.54445	Prediction: Du bist so farten.	Actual:Du hast gewonnen!
-BLEU: 0.66874	Prediction: Ist das ein Frau?	Actual:Gibt es dort ein Café?
-BLEU: 0	Prediction: Bleib wohl.	Actual:Bleibt cool.
-BLEU: 0.54445	Prediction: Er ist ein gelassen.	Actual:Er ist Japaner.
-BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom fehlt.
-BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom blieb stumm.
-BLEU: 0	Prediction: Fang nicht.	Actual:Fragen Sie einen Fachmann.
+Sentence_Level_BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Es trifft zu.
+Sentence_Level_BLEU: 0.75984	Prediction: Ist Tom gut?	Actual:Ist Tom allein?
+Sentence_Level_BLEU: 0.75984	Prediction: Ist es das?	Actual:Ist es heiß?
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frause.	Actual:Ich habe kein Geld.
+Sentence_Level_BLEU: 0.63894	Prediction: Wir können sie helfen.	Actual:Wir können nicht gehen.
+Sentence_Level_BLEU: 0.30935	Prediction: Ich habe es gefunden.	Actual:Ich verstehe.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich mag das Gele.	Actual:Ich wachte auf.
+Sentence_Level_BLEU: 0	Prediction: Kannst du schwimmen?	Actual:Könnt ihr kommen?
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin ein Tomstig.	Actual:Ich bin ein Offizier.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich bin risikofreudig.
+Sentence_Level_BLEU: 0.23505	Prediction: Ich muss mich aus den Lauf das preist.	Actual:Ich muss eine kaufen.
+Sentence_Level_BLEU: 0	Prediction: Es hat eine Frause.	Actual:Ich habe hier Schmerzen.
+Sentence_Level_BLEU: 0	Prediction: Gib es mal anderen sein!	Actual:Gönnen Sie uns eine Pause!
+Sentence_Level_BLEU: 0	Prediction: Es ist sehr schnell.	Actual:Diesmal zahle ich.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin wach.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist gerade.	Actual:Tom ist älter.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe es versprochen.	Actual:Ich wurde ohnmächtig.
+Sentence_Level_BLEU: 0	Prediction: Da ist ein Buch.	Actual:Es gibt keine Seife.
+Sentence_Level_BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Es war nicht unserer.
+Sentence_Level_BLEU: 0.75984	Prediction: Sind Sie beschäftigt?	Actual:Sind wir pleite?
+Sentence_Level_BLEU: 0.70711	Prediction: Tom scheint bleiben.	Actual:Tom verlor das Bewusstsein.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom schaut aus.	Actual:Tom würde gehen.
+Sentence_Level_BLEU: 0.70711	Prediction: Meine Augen sin weid.	Actual:Meine Füße taten weh.
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind drinnen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom sieht gut aus.	Actual:Tom entschuldigte sich.
+Sentence_Level_BLEU: 0.51003	Prediction: Sie haben gelagen.	Actual:Sie jubelten.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich kenne die Weise.	Actual:Ich kenne deinen Sohn.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom war hinterhältig.
+Sentence_Level_BLEU: 0	Prediction: Das hat eine Falle.	Actual:Ich studiere Koreanisch.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir sind zeitig.
+Sentence_Level_BLEU: 0	Prediction: Komm hier!	Actual:Die Rechnung, bitte.
+Sentence_Level_BLEU: 0.75984	Prediction: Ich hasse gerne.	Actual:Ich hasse Hunde.
+Sentence_Level_BLEU: 0.51003	Prediction: Ist er schon?	Actual:Schläft er?
+Sentence_Level_BLEU: 0.30935	Prediction: Fahre mich nicht helfen!	Actual:Fahre vorsichtig.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Zisch ab!
+Sentence_Level_BLEU: 0.70711	Prediction: Ist Tom nicht schwer?	Actual:Ist Tom nicht cool?
+Sentence_Level_BLEU: 0	Prediction: Verschwinde!	Actual:Scher dich fort!
+Sentence_Level_BLEU: 0.63894	Prediction: Wer hat es gesagt?	Actual:Wer hat sie gefunden?
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist gerade.	Actual:Tom ist schmutzig.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin schrecklich.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschreten.	Actual:Ich bin verärgert.
+Sentence_Level_BLEU: 0.75984	Prediction: Er liebt eine.	Actual:Er liebt uns.
+Sentence_Level_BLEU: 0.30935	Prediction: Sie kann gut such.	Actual:Sie kam.
+Sentence_Level_BLEU: 0.54445	Prediction: Mein Falle ist alle.	Actual:Mathe ist schwer.
+Sentence_Level_BLEU: 0.75984	Prediction: Niemand hat geweint.	Actual:Niemand ist gestorben.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe eine Frauner.	Actual:Ich bin glücklich.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom schläft.	Actual:Tom ist auf Diät.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir brauchen eine Karte.	Actual:Wir vertrauten Tom.
+Sentence_Level_BLEU: 0	Prediction: Seid tolt.	Actual:Seien Sie diskret!
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom ist entkommen.
+Sentence_Level_BLEU: 0.56234	Prediction: Das ist ein Schreibtisch.	Actual:Das ist ein bissiger Hund.
+Sentence_Level_BLEU: 0	Prediction: Das kann schwommen.	Actual:Im Ernst?
+Sentence_Level_BLEU: 1.0	Prediction: Tom hat eine Erkältung.	Actual:Tom hat eine Erkältung.
+Sentence_Level_BLEU: 0	Prediction: Maria mal den Red.	Actual:Danke sehr!
+Sentence_Level_BLEU: 0.63894	Prediction: Hör auf zu schießen.	Actual:Hört auf zu schreien!
+Sentence_Level_BLEU: 0.63894	Prediction: Ich liebe mich ause.	Actual:Ich liebe dich, Tom!
+Sentence_Level_BLEU: 0.42888	Prediction: Das hat eine Fass ange ragen.	Actual:Ich denke das auch.
+Sentence_Level_BLEU: 0	Prediction: Nimm mit der Bessen.	Actual:Umarmen Sie Tom!
+Sentence_Level_BLEU: 0.66874	Prediction: Niemand ist getan.	Actual:Es hat mich niemand unterrichtet.
+Sentence_Level_BLEU: 0.70711	Prediction: Das gehört Tom.	Actual:Das sieht gut aus.
+Sentence_Level_BLEU: 0.75984	Prediction: Komm mit mir.	Actual:Komm wieder her!
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind still.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich sinde nerve.	Actual:Ich habe Tom nicht gehorcht.
+Sentence_Level_BLEU: 0.70711	Prediction: Wo ist mein Sohn?	Actual:Wo ist mein Rad?
+Sentence_Level_BLEU: 0	Prediction: Ich mag das Gelickt.	Actual:Mir gefällt dein Auto.
+Sentence_Level_BLEU: 0.49761	Prediction: Ich kann es mal en.	Actual:Ich kann Ski fahren.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschlaten.	Actual:Ich rieche Kaffee.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich will eine Falle.	Actual:Ich will sie alle.
+Sentence_Level_BLEU: 0.20029	Prediction: Ich muss mich aus den Lauf drautend.	Actual:Ich muss lernen.
+Sentence_Level_BLEU: 0.70711	Prediction: Es klang einfach.	Actual:Es macht mich krank.
+Sentence_Level_BLEU: 0	Prediction: Sag es mir der Laufall.	Actual:Sage die Wahrheit!
+Sentence_Level_BLEU: 0.70711	Prediction: Er kann nicht schwimmen.	Actual:Er hat es erwähnt.
+Sentence_Level_BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Bleib mal auf dem Boden der Tatsachen!
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war erwisset.	Actual:Tom hatte Schmerzen.
+Sentence_Level_BLEU: 0.63894	Prediction: Wo ist mein Sohn?	Actual:Wo ist der Zoo?
+Sentence_Level_BLEU: 0	Prediction: Seien Sie zurück.	Actual:Bis später!
+Sentence_Level_BLEU: 0.5507	Prediction: Tom scheint beschäftigt zu sein.	Actual:Tom muss gewonnen haben.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom hat telefoniert.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war mager.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht nett.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe die Schlüssel.
+Sentence_Level_BLEU: 0.54445	Prediction: Du kannst es gehen.	Actual:Du warst großartig!
+Sentence_Level_BLEU: 0.75984	Prediction: Tom scheint geschlacht.	Actual:Tom kam hierher.
+Sentence_Level_BLEU: 0.39011	Prediction: Tom hat eine Palis gebeten.	Actual:Tom glaubt es.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe einen Camion.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich will eine Falle.	Actual:Ich will sterben.
+Sentence_Level_BLEU: 0.63894	Prediction: Wir müssen reden.	Actual:Wir müssen sie finden.
+Sentence_Level_BLEU: 0	Prediction: Das Leben ist nicht faur.	Actual:Seine Nase blutete.
+Sentence_Level_BLEU: 0	Prediction: Du bist mein Held.	Actual:Ihr seid Idioten.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann antworten.
+Sentence_Level_BLEU: 0	Prediction: Lasst uns nicht lassen!	Actual:Schöne Reise!
+Sentence_Level_BLEU: 0.66874	Prediction: Ich habe ein Buch gehen.	Actual:Ich habe ein Buch gekauft.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir können sie helfen.	Actual:Wir vertrauen ihm.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich möchte ihn nicht.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom wurde gefeuert.
+Sentence_Level_BLEU: 0.42888	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom ekelt mich an.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich werde nicht gehen.	Actual:Ich werde nicht tanzen.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war verwöhnt.
+Sentence_Level_BLEU: 0	Prediction: Lasst uns anfangen!	Actual:Auf, auf!
+Sentence_Level_BLEU: 0.27953	Prediction: Ich kann es mir nicht sehen.	Actual:Ich gebe Französischunterricht.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe Eintopf gemacht.
+Sentence_Level_BLEU: 0	Prediction: Macht es du belagt?	Actual:Möchtet ihr welche?
+Sentence_Level_BLEU: 0	Prediction: Gehe weg!	Actual:Gehen Sie da lang!
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Tomstig.	Actual:Ich schlafe nicht.
+Sentence_Level_BLEU: 0	Prediction: Nimm meinen Rat an.	Actual:Beiß mal rein!
+Sentence_Level_BLEU: 0.75984	Prediction: Die gefällt mir.	Actual:Die Mädchen gewannen.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir haben es gefunden.	Actual:Wir schauten nach oben.
+Sentence_Level_BLEU: 0	Prediction: Kommerlleisen Sie sichen.	Actual:Lass mich einfach gehen.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist so unverschämt.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe viel gesehen.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht lebendig.
+Sentence_Level_BLEU: 0	Prediction: Du kannst allein.	Actual:Ihr stinkt.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom wird es versuchen.	Actual:Tom wird es überprüfen.
+Sentence_Level_BLEU: 0	Prediction: Fasse das.	Actual:Vögel singen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom ist verschwunden.
+Sentence_Level_BLEU: 0.63894	Prediction: Sie ist ein gemacht.	Actual:Sie ist eine Weiße.
+Sentence_Level_BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom wurde erschossen.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe mich geschlagen.	Actual:Ich muss andauernd niesen.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich bin aus der Lügend.	Actual:Ich meine es ernst!
+Sentence_Level_BLEU: 0.70711	Prediction: Geht mir nicht.	Actual:Beleidigen Sie mich nicht!
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin auf der Lasen.	Actual:Ich bin Ingenieur.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist leichtgläubig.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist überzeugend.
+Sentence_Level_BLEU: 0	Prediction: Ich bin ausgerastet.	Actual:Das Leben macht mir Freude.
+Sentence_Level_BLEU: 0.70711	Prediction: Habt ihr es getan?	Actual:Hast du es vergessen?
+Sentence_Level_BLEU: 0.30935	Prediction: Wer hat es gesagt?	Actual:Wer verschwand?
+Sentence_Level_BLEU: 0.54445	Prediction: Wir werden es versuchen.	Actual:Wir greifen an.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom hat gehorcht.
+Sentence_Level_BLEU: 0.66874	Prediction: Wer hat es gefunden?	Actual:Wer wird das Essen zubereiten?
+Sentence_Level_BLEU: 0	Prediction: Ist es das?	Actual:Bin ich dran?
+Sentence_Level_BLEU: 0	Prediction: Geht weiter da.	Actual:Gehen Sie und warten Sie draußen!
+Sentence_Level_BLEU: 0.54445	Prediction: Wo ist mein Sie?	Actual:Wo liegt Boston?
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Befehl!
+Sentence_Level_BLEU: 0.39011	Prediction: Fangen Sie mich nicht an!	Actual:Steh nicht auf.
+Sentence_Level_BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist er Japaner?
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hatte eine Erkältung.	Actual:Tom hatte einen Sohn.
+Sentence_Level_BLEU: 0	Prediction: Wie seltsam!	Actual:Was ist das nicht süß!
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Tom.	Actual:Das gehört ihr.
+Sentence_Level_BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Schießen Sie zurück.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Schöre.	Actual:Das ist alles.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin geschieden.
+Sentence_Level_BLEU: 0.54445	Prediction: Was ist das freitet?	Actual:Was ist drin?
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin sehr schüchtern.	Actual:Ich bin sehr glücklich.
+Sentence_Level_BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Es ist kalt.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist eine Kirche.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist zynisch.
+Sentence_Level_BLEU: 0.70711	Prediction: Du hast mich angelogen.	Actual:Du versteckst dich besser!
+Sentence_Level_BLEU: 0.75984	Prediction: Wir sind verloren.	Actual:Wir sind Studenten.
+Sentence_Level_BLEU: 0	Prediction: Komm hierher!	Actual:Kommt näher.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich will eine Falle.	Actual:Ich will einen Hundewelpen.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich will eine Falle.	Actual:Ich möchte den Ventilator haben.
+Sentence_Level_BLEU: 0	Prediction: Kennen Sie mich?	Actual:Magst du Rap?
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin ausgerautet.	Actual:Ich fiel in Ohnmacht.
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind gut.	Actual:Sie sind weg.
+Sentence_Level_BLEU: 0.30935	Prediction: Ich habe es gefunden.	Actual:Ich versprech's.
+Sentence_Level_BLEU: 0	Prediction: Es hat geschnaut.	Actual:Das hilft.
+Sentence_Level_BLEU: 0.70711	Prediction: Ist es ein Tom?	Actual:Ist das gesetzlich zugelassen?
+Sentence_Level_BLEU: 0.70711	Prediction: Hat Tom es gesagt?	Actual:Hat Tom es bemerkt?
+Sentence_Level_BLEU: 0	Prediction: Ich mag das Gelickt.	Actual:Mir gefällt es hier.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin so satt.
+Sentence_Level_BLEU: 0.66874	Prediction: Sie hat ihn gesehen.	Actual:Sie gab einen Schuss ab.
+Sentence_Level_BLEU: 0.63894	Prediction: Darf ich mich setzen?	Actual:Darf ich zuerst gehen?
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist ein Tom.	Actual:Es ist ein Hinterhalt!
+Sentence_Level_BLEU: 0.70711	Prediction: Tom liebt das.	Actual:Tom hat schon gegessen.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom scheint gelassen.	Actual:Es scheint, dass Tom beschäftigt ist.
+Sentence_Level_BLEU: 0.54445	Prediction: Maria ist ein Fachmand.	Actual:Maria ist seltsam.
+Sentence_Level_BLEU: 0	Prediction: Sie sind verloren.	Actual:Ja, ich weiß.
+Sentence_Level_BLEU: 0.18763	Prediction: Ich bin aus der Nachen.	Actual:Ich lerne.
+Sentence_Level_BLEU: 0	Prediction: Versuch dich dich einfal!	Actual:Trinken Sie etwas.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich hasse es einverstanden.	Actual:Ich hasse Spinat.
+Sentence_Level_BLEU: 0.66874	Prediction: Alles ist gut gehen.	Actual:Gestatten Sie mir, zu gehen.
+Sentence_Level_BLEU: 0	Prediction: Warte mal kurz.	Actual:Warten Sie bis sechs!
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Scher dich weg!
+Sentence_Level_BLEU: 0	Prediction: Nimm meinen Rat an.	Actual:Nehmen Sie alles.
+Sentence_Level_BLEU: 0.56234	Prediction: Ich bin ein Tomstig.	Actual:Ich bin ein alter Mann.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Verkrümele dich!
+Sentence_Level_BLEU: 0	Prediction: Lass mich in Rehen!	Actual:Hier kommt Tom.
+Sentence_Level_BLEU: 0	Prediction: Frießen Sie mal!	Actual:Unglaublich!
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus Topio gefallen.	Actual:Ich träume viel.
+Sentence_Level_BLEU: 0	Prediction: Stellen Sie sich dir Auf!	Actual:Trag die Konsequenzen!
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Still.	Actual:Ich bin Optimist.
+Sentence_Level_BLEU: 0.63894	Prediction: Sind wir schon weiter?	Actual:Sind wir dann durch?
+Sentence_Level_BLEU: 0	Prediction: Schauen Sie genauer hin.	Actual:Rindfleisch bitte.
+Sentence_Level_BLEU: 0.49761	Prediction: Er ist ein guter Junge.	Actual:Er ist nicht bereit.
+Sentence_Level_BLEU: 0.63894	Prediction: Ist es das?	Actual:Ist es ein Geheimnis?
+Sentence_Level_BLEU: 0.75984	Prediction: Schreiben Sie mir!	Actual:Schreiben Sie Tom!
+Sentence_Level_BLEU: 0.70711	Prediction: Ich werde nicht gehen.	Actual:Ich werde nicht einlenken.
+Sentence_Level_BLEU: 0.75984	Prediction: Wer schrimm?	Actual:Wer ist er?
+Sentence_Level_BLEU: 0.54445	Prediction: Er ist nicht groß.	Actual:Er ist unverheiratet.
+Sentence_Level_BLEU: 0.54445	Prediction: Hat Tom es gesagt?	Actual:Ist Tom entkommen?
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Baum.
+Sentence_Level_BLEU: 0.75984	Prediction: Es hat geschlaft.	Actual:Es klappt gut.
+Sentence_Level_BLEU: 0.54445	Prediction: Wer hat es gefunden?	Actual:Wer wird anfangen?
+Sentence_Level_BLEU: 0.5507	Prediction: Sie kann gehen zu spät.	Actual:Sie hat ihn erwürgt.
+Sentence_Level_BLEU: 0.54445	Prediction: Es war nicht schlecht.	Actual:Es war real.
+Sentence_Level_BLEU: 0.30935	Prediction: Wie schlecken wir hal!	Actual:Wie schön!
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist dankbar.
+Sentence_Level_BLEU: 0.9036	Prediction: Wir müssen gehen.	Actual:Wir sollten gehen.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom war ein Buch.	Actual:Tom war mein Chef.
+Sentence_Level_BLEU: 0	Prediction: Ich habe eine Erkältung.	Actual:Es geht mir gut.
+Sentence_Level_BLEU: 0.54445	Prediction: Es ist sehr schnell.	Actual:Das ist unmenschlich.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich sinde nichts.	Actual:Ich fragte Tom nach dem Grund.
+Sentence_Level_BLEU: 0.75984	Prediction: Kennen Sie mich?	Actual:Hörst du mich?
+Sentence_Level_BLEU: 0	Prediction: Nehmt meine.	Actual:Übernimm die Kontrolle.
+Sentence_Level_BLEU: 0.63894	Prediction: Das da ist allessing.	Actual:Die da ist OK.
+Sentence_Level_BLEU: 0.70711	Prediction: Komm hierher!	Actual:Kommen Sie sofort hierher!
+Sentence_Level_BLEU: 0.30935	Prediction: Wir sind zu Hause.	Actual:Wir summen.
+Sentence_Level_BLEU: 0	Prediction: Du scheinst gut zu sein.	Actual:Ihr solltet gehen.
+Sentence_Level_BLEU: 0	Prediction: Niemand hat gesehen.	Actual:Kein Problem!
+Sentence_Level_BLEU: 0	Prediction: Es ist ein Tasscheingehel.	Actual:Ich bin's nur!
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frause.	Actual:Ich hörte ein Geräusch.
+Sentence_Level_BLEU: 0.5507	Prediction: Tom hat eine Frau gegassen.	Actual:Tom fühlte sich einsam.
+Sentence_Level_BLEU: 0.75984	Prediction: Wo waren Sie?	Actual:Wo wir sind?
+Sentence_Level_BLEU: 0.39011	Prediction: Ich werde mit Tom gefangen.	Actual:Ich mache das.
+Sentence_Level_BLEU: 0.62233	Prediction: Ich werde nicht gehen.	Actual:Ich werde es nicht abstreiten.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom wurde überfallen.
+Sentence_Level_BLEU: 0	Prediction: Ruf Tom an!	Actual:Springen Sie hinüber.
+Sentence_Level_BLEU: 0.70711	Prediction: Sie hat ihn gesehen.	Actual:Sie strengt sich an.
+Sentence_Level_BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer tat das?
+Sentence_Level_BLEU: 0.66874	Prediction: Lasst uns Tom sehen.	Actual:Lass uns ein Taxi nehmen!
+Sentence_Level_BLEU: 0.30935	Prediction: Tom schaut meinen Huss.	Actual:Tom improvisierte.
+Sentence_Level_BLEU: 0.54445	Prediction: Was für ein Tom!	Actual:Was blieb übrig?
+Sentence_Level_BLEU: 0.63894	Prediction: Tom war ein Buch.	Actual:Tom war bei mir.
+Sentence_Level_BLEU: 0.49761	Prediction: Sie ist ein guter Junge.	Actual:Sie ist auf Diät.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist mein Haus.
+Sentence_Level_BLEU: 0	Prediction: Verschwinde!	Actual:Troll dich!
+Sentence_Level_BLEU: 0	Prediction: Ich will eine Falle.	Actual:Mir ist zum Weinen zumute.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist verwirrt.
+Sentence_Level_BLEU: 0	Prediction: Ich bin auf der Lagen.	Actual:Es ist ernst gemeint von mir.
+Sentence_Level_BLEU: 0	Prediction: Lassen Sie mich an!	Actual:Augenblick mal!
+Sentence_Level_BLEU: 0.56234	Prediction: Tom scheint gelassen.	Actual:Tom scheint sich zu langweilen.
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist schwerzelig.	Actual:Das ist eine Frucht.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich habe eine Frau.	Actual:Ich leide an einer Erkältung.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht sicher.
+Sentence_Level_BLEU: 0.75984	Prediction: Wer schrimm?	Actual:Wer ist da?
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind kalt.
+Sentence_Level_BLEU: 0.70711	Prediction: Ist Tom nicht schwer?	Actual:Ist Tom nicht großartig?
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Tomschieden.	Actual:Ich bin Lehrerin.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist nicht wirklich.
+Sentence_Level_BLEU: 0	Prediction: Denke der hier!	Actual:Denk noch mal nach!
+Sentence_Level_BLEU: 0	Prediction: Ich kann es mir mich nicht seiden.	Actual:Das Fleisch ist knapp.
+Sentence_Level_BLEU: 0.5507	Prediction: Wir werden es mir beschäftigt.	Actual:Wir werden es herausbekommen.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe es gefunden.	Actual:Ich habe mich erholt.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Scher dich fort!
+Sentence_Level_BLEU: 0.70711	Prediction: Ich will eine Falle.	Actual:Ich ging an Bord.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich werde dich vermissen.	Actual:Ich gehe das Risiko ein.
+Sentence_Level_BLEU: 0.70711	Prediction: Ist das eine Manausa?	Actual:Ist dies ein Wein?
+Sentence_Level_BLEU: 0	Prediction: Du solltest gehen.	Actual:Sie sollten kommen.
+Sentence_Level_BLEU: 0.70711	Prediction: Wie geht es dir?	Actual:Wie fühlst du dich?
+Sentence_Level_BLEU: 0.79527	Prediction: Kontrollieren Sie es einfach.	Actual:Machen Sie einfach Tom nach.
+Sentence_Level_BLEU: 0	Prediction: Lasst uns essen!	Actual:Schauen wir mal.
+Sentence_Level_BLEU: 0	Prediction: Lasst uns essen gehen!	Actual:Kommt, wir spielen jetzt Fangen.
+Sentence_Level_BLEU: 0.75984	Prediction: Können Sie schwimmen?	Actual:Können Sie gehen?
+Sentence_Level_BLEU: 0.63894	Prediction: Tom war erwastet.	Actual:Tom war am Gewinnen.
+Sentence_Level_BLEU: 0	Prediction: Ich bin sehr geschlafen.	Actual:Mir geht's gut.
+Sentence_Level_BLEU: 0.70711	Prediction: Er ist nicht großartig.	Actual:Er trägt einen Bart.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist aufgekratzt.
+Sentence_Level_BLEU: 0.63894	Prediction: Ist das ein Frein?	Actual:Ist das hier deins?
+Sentence_Level_BLEU: 0.75984	Prediction: Sie waren beschäftigt.	Actual:Sie werden kommen.
+Sentence_Level_BLEU: 0	Prediction: Meine Arbeit ist getan.	Actual:Mir tut der Kiefer weh.
+Sentence_Level_BLEU: 0.54445	Prediction: Hör auf zu schießen.	Actual:Haltet Tom auf!
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin reich.
+Sentence_Level_BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Es war nicht unseres.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin so müde!
+Sentence_Level_BLEU: 0.54445	Prediction: Ich hasse es einverstanden.	Actual:Ich hasse Kaffee.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie es.	Actual:Beeil dich!
+Sentence_Level_BLEU: 0	Prediction: Behalten Sie es meine.	Actual:Schreibt weiter.
+Sentence_Level_BLEU: 0.54445	Prediction: Du bist so sauf.	Actual:Du bist verrückt.
+Sentence_Level_BLEU: 0	Prediction: Können Sie schwimmen?	Actual:Kannst du mir helfen?
+Sentence_Level_BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist Tom da?
+Sentence_Level_BLEU: 0.54445	Prediction: Er ist ein gelassen.	Actual:Er ist Plattenaufleger.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich will eine Falle.	Actual:Ich will Maria.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Mythos.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat sich weiterbewegt.
+Sentence_Level_BLEU: 0	Prediction: Du bist so sauf.	Actual:Ihr seid reich.
+Sentence_Level_BLEU: 0	Prediction: Sind wir schon weiter?	Actual:War es das?
+Sentence_Level_BLEU: 0.51003	Prediction: Sieh dich auf.	Actual:Entspann dich!
+Sentence_Level_BLEU: 0.66874	Prediction: Ich will eine Falle.	Actual:Ich gehe immer zu Fuß.
+Sentence_Level_BLEU: 0.56234	Prediction: Mach den Fernseher lauter.	Actual:Machen Sie den Fernseher lauter.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist unhöflich.
+Sentence_Level_BLEU: 0.56234	Prediction: Sie haben gewonnen.	Actual:Sie haben ihr Ziel erreicht.
+Sentence_Level_BLEU: 0.75984	Prediction: Willkommen!	Actual:Willkommen zu Hause.
+Sentence_Level_BLEU: 0.38754	Prediction: Ich bin ein Mann zu schlafen.	Actual:Ich bin in London.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich bin aus der Schuld.	Actual:Ich verstecke mich nicht.
+Sentence_Level_BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom wurde böse.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Schwirr ab!
+Sentence_Level_BLEU: 0.8409	Prediction: Ich war nicht schlecht.	Actual:Ich wurde nicht angeheuert.
+Sentence_Level_BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Seien Sie vernünftig!
+Sentence_Level_BLEU: 0.5507	Prediction: Lass es das mich sachen!	Actual:Überlassen Sie das uns!
+Sentence_Level_BLEU: 0.54445	Prediction: Tom war ein Buch.	Actual:Tom war fantastisch.
+Sentence_Level_BLEU: 0.65489	Prediction: Bitte setzen Sie sich hierhin.	Actual:Bitte setz dich hierhin.
+Sentence_Level_BLEU: 0.46392	Prediction: Er kann es nicht leiden.	Actual:Er schaffte es.
+Sentence_Level_BLEU: 0.39011	Prediction: Sie kann gehen zu schöfen.	Actual:Sie küsste ihn.
+Sentence_Level_BLEU: 0.8409	Prediction: Wo ist mein Sohn?	Actual:Wo bleibt mein Trinkgeld?
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Still.	Actual:Ich bin wichtig.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe es gefunden.	Actual:Ich fühle mich schuldig.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich liebe der Gelde.	Actual:Ich liebe Hochzeiten.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir brauchen eine Katze.	Actual:Wir wissen es nicht.
+Sentence_Level_BLEU: 0.75984	Prediction: Ich war schlecht.	Actual:Ich war gerührt.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist fair.
+Sentence_Level_BLEU: 0	Prediction: Habt ihr es getan?	Actual:Hatten wir das?
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist traurig.
+Sentence_Level_BLEU: 0.70711	Prediction: Schauen Sie genauer hin.	Actual:Schauen Sie genau hin.
+Sentence_Level_BLEU: 0.75984	Prediction: Es klangt mein.	Actual:Es riecht übel.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir haben es gefunden.	Actual:Wir haben einen gefunden.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich verstehe das nicht.
+Sentence_Level_BLEU: 0.9036	Prediction: Ist es das?	Actual:Ist das deins?
+Sentence_Level_BLEU: 0	Prediction: Gib mir den Buch.	Actual:Grabe eine tiefes Loch.
+Sentence_Level_BLEU: 0	Prediction: Das kann mah nicht.	Actual:Männer sind Schweine.
+Sentence_Level_BLEU: 0.5507	Prediction: Er ist ein guter Junge.	Actual:Er ist ein Medium.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es geschlagen.	Actual:Tom benahm sich wie ein Betrunkener.
+Sentence_Level_BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom glaubt mir.
+Sentence_Level_BLEU: 0	Prediction: Hast du mich angelogen?	Actual:Habt ihr’s?
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom schluchzt.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom liebt das.	Actual:Tom lebte allein.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich werde dich vermissen.	Actual:Ich werde hier schlafen.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich kenne die einer Jan.	Actual:Ich kannte Tom gut.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Buch.	Actual:So viel ist sicher.
+Sentence_Level_BLEU: 0.75984	Prediction: Sind wir leid?	Actual:Brechen wir auf?
+Sentence_Level_BLEU: 0	Prediction: Schicken Sie die Türe.	Actual:Komm wieder zu dir!
+Sentence_Level_BLEU: 0.49761	Prediction: Ich war auf der Besend.	Actual:Ich war sehr beschäftigt.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie sind nicht getan.	Actual:Sie sind super.
+Sentence_Level_BLEU: 0	Prediction: Fassen Sie mir das Glück.	Actual:Geh schnell nach Hause.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Tomstig.	Actual:Ich bin Lehrer.
+Sentence_Level_BLEU: 0.5507	Prediction: Tom hat eine Frau gegabt.	Actual:Tom wurde fallen gelassen.
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verärgert.	Actual:Sie sind groß.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir sind jung.
+Sentence_Level_BLEU: 0.54445	Prediction: Kontrollieren Sie es einfach.	Actual:Ignorier Tom einfach.
+Sentence_Level_BLEU: 0	Prediction: Bleib doch müchen.	Actual:Bleiben Sie bei Tom!
+Sentence_Level_BLEU: 0.56234	Prediction: Tom scheint gelassen.	Actual:Tom scheint bereit zu sein.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe es versprochen.	Actual:Ich hab's zurückgetan.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war Zweiter.
+Sentence_Level_BLEU: 0	Prediction: Fang nicht!	Actual:Frag Tom!
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin Tom Jackson.
+Sentence_Level_BLEU: 0	Prediction: Warst du mir auf?	Actual:Ist sie nicht süß?
+Sentence_Level_BLEU: 0.66874	Prediction: Lasst mich das machen.	Actual:Lassen Sie mich mal sehen.
+Sentence_Level_BLEU: 0.75984	Prediction: Wir haben gesecht.	Actual:Wir sind da.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschlafen.	Actual:Ich bin dick.
+Sentence_Level_BLEU: 0.49761	Prediction: Ich werde mit Tom gefangen.	Actual:Ich werde ihn fragen.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat eine Erkältung.	Actual:Tom hat ihn gesehen.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist ein geheißen.	Actual:Tom ist ein Verrückter.
+Sentence_Level_BLEU: 0.75984	Prediction: Du kannst allein.	Actual:Du hast gewonnen.
+Sentence_Level_BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer hat geschummelt?
+Sentence_Level_BLEU: 0.51003	Prediction: Tom hat gesprochen.	Actual:Tom jubelte.
+Sentence_Level_BLEU: 0.27953	Prediction: Niemand hat mir den Laufpass gegeben.	Actual:Niemand sah mich.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr schüchtern.	Actual:Ich bin sprachlos.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir haben es gefunden.	Actual:Wir sind angekommen.
+Sentence_Level_BLEU: 0	Prediction: Sag es mir meine.	Actual:Richte Tom meinen Dank aus.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat mich zurückgehalten.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom hat gewonnen.
+Sentence_Level_BLEU: 0.63894	Prediction: Er kann nicht schwimmen.	Actual:Er kann schnell rennen.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich habe dir vertraut.	Actual:Ich nannte Tom den Grund.
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist deine Schuld.	Actual:Es ist frisch heute.
+Sentence_Level_BLEU: 0.56234	Prediction: Es ist schüchterbeiter.	Actual:Es ist Viertel nach neun.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Mann.	Actual:Ich bin unschuldig.
+Sentence_Level_BLEU: 0.75984	Prediction: Kannst du schwimmen?	Actual:Kannst du helfen?
+Sentence_Level_BLEU: 0.5507	Prediction: Tom hat eine Pfange aufgehört.	Actual:Tom zog sich an.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat mich angeschrieben.
+Sentence_Level_BLEU: 0.56234	Prediction: Ich bin ein Tomstig.	Actual:Ich bin noch nicht soweit.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frause.	Actual:Das mache ich auch.
+Sentence_Level_BLEU: 0	Prediction: Kannte lassen?	Actual:Großartig, nicht wahr?
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frauze.	Actual:Ich fühlte mich isoliert.
+Sentence_Level_BLEU: 0	Prediction: Verschwinde!	Actual:Verpiss dich!
+Sentence_Level_BLEU: 0.5507	Prediction: Tom hat eine Falie angebracht.	Actual:Tom kam nach Hause.
+Sentence_Level_BLEU: 0.56234	Prediction: Ich habe dir gefunden.	Actual:Ich habe einen Spaziergang gemacht.
+Sentence_Level_BLEU: 0.70711	Prediction: Sag es mir meine.	Actual:Erzähle mir einen Witz!
+Sentence_Level_BLEU: 0.63894	Prediction: Wer hat es gesagt?	Actual:Wer hat dich angestellt?
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich gehe jetzt.
+Sentence_Level_BLEU: 0	Prediction: Folgen Sie das mir besser!	Actual:Folgt Tom.
+Sentence_Level_BLEU: 0	Prediction: Jetzt erinnere ich einen Hund.	Actual:Es ist Zeit, aufzustehen.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich habe eine Frauze.	Actual:Ich hoffe, dass Tom gewinnt.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gut.	Actual:Tom ist nicht verletzt.
+Sentence_Level_BLEU: 0	Prediction: Ich bin aus der Nachsehn.	Actual:Mir geht es gut.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Tom.	Actual:Das ist klug.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Beset.	Actual:Ich bewundere dich.
+Sentence_Level_BLEU: 0.75984	Prediction: Sie haben gewonnen.	Actual:Sie spendeten Beifall.
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist sehr schnell.	Actual:Es ist zu spät.
+Sentence_Level_BLEU: 0.54445	Prediction: Geh mir nicht auf.	Actual:Nerv mich nicht.
+Sentence_Level_BLEU: 1.0	Prediction: Tom sah gut aus.	Actual:Tom sah gut aus.
+Sentence_Level_BLEU: 0	Prediction: Können Sie schonden?	Actual:Kannst du das machen?
+Sentence_Level_BLEU: 0.70711	Prediction: Bist du nach Hause?	Actual:Meinst du das ernst?
+Sentence_Level_BLEU: 0.75984	Prediction: Nimm meinen Rat.	Actual:Nimm das hier.
+Sentence_Level_BLEU: 0.70711	Prediction: Er ist nicht großer.	Actual:Er hat eine Kamera.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe es gefunden.	Actual:Ich habe es bekommen.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann es nicht.
+Sentence_Level_BLEU: 0	Prediction: Ich mag das Gele.	Actual:Mir gefällt mein Job.
+Sentence_Level_BLEU: 0	Prediction: Lass mich das machen!	Actual:Hinterlassen Sie eine Nachricht!
+Sentence_Level_BLEU: 0	Prediction: Kennen Sie mich?	Actual:Leugnest du?
+Sentence_Level_BLEU: 0.75984	Prediction: Ist Tom gut?	Actual:Ist Tom da?
+Sentence_Level_BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Das ist irreführend.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es getannen.	Actual:Tom hat mich unterbrochen.
+Sentence_Level_BLEU: 0.63894	Prediction: Wie kann ist es?	Actual:Wie kann das sein?
+Sentence_Level_BLEU: 0.70711	Prediction: Tom kommt rut.	Actual:Tom hat sich ertüchtigt.
+Sentence_Level_BLEU: 0.70711	Prediction: Der Hund ist getrog.	Actual:Die Suppe ist heiß.
+Sentence_Level_BLEU: 0.62233	Prediction: Wir sind zu Hause.	Actual:Wir sind dabei, zu lesen.
+Sentence_Level_BLEU: 0	Prediction: Ich habe eine Frauner.	Actual:Mir geht’s hervorragend.
+Sentence_Level_BLEU: 0.51003	Prediction: Du bist gut.	Actual:Du lügst!
+Sentence_Level_BLEU: 0	Prediction: Habt ihr es getan?	Actual:Meinten Sie das ernst?
+Sentence_Level_BLEU: 0	Prediction: Setz sie auf!	Actual:Tu es drauf.
+Sentence_Level_BLEU: 0.70711	Prediction: Sie hat ihn gesehen.	Actual:Sie wird vielleicht kommen.
+Sentence_Level_BLEU: 0	Prediction: Beginnen Sie schlechen.	Actual:Beginne hier.
+Sentence_Level_BLEU: 0.75984	Prediction: Gib es mir.	Actual:Gib es Tom.
+Sentence_Level_BLEU: 0	Prediction: Behalten Sie es meine.	Actual:Lass uns in Kontakt bleiben.
+Sentence_Level_BLEU: 0.8409	Prediction: Ich sah ein Buch.	Actual:Ich sehe das Buch.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich habe eine Frause gesahrt.	Actual:Ich bezahle Tom gut.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom hat unrecht.
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist sehr sicher.	Actual:Das ist ein Witz.
+Sentence_Level_BLEU: 0.54445	Prediction: Ist das eine Manausa?	Actual:Gehört das dir?
+Sentence_Level_BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Das ist blöd.
+Sentence_Level_BLEU: 0.70711	Prediction: Wie geht es dir?	Actual:Wie alt ist Tom?
+Sentence_Level_BLEU: 0.75984	Prediction: Wir kannten dich.	Actual:Wir kennen ihn.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gut.	Actual:Tom ist nicht rechthaberisch.
+Sentence_Level_BLEU: 0	Prediction: Lasst es dort!	Actual:Lies dieses Buch.
+Sentence_Level_BLEU: 0.23505	Prediction: Ich muss mich aus den Lauf das preist.	Actual:Ich muss dagegen ankämpfen.
+Sentence_Level_BLEU: 0	Prediction: Rufen Sie die einfach.	Actual:Klapp dein Buch zu.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom scheint gelassen.	Actual:Tom ist anscheinend beschäftigt.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom fehlt.
+Sentence_Level_BLEU: 0.75984	Prediction: Ich war gut.	Actual:Ich war wütend.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Buch.	Actual:Ich niese oft.
+Sentence_Level_BLEU: 0.54445	Prediction: Er hat ein Buch.	Actual:Er hat Hosenträger.
+Sentence_Level_BLEU: 0	Prediction: Ruf mich schon en!	Actual:Spring drüber!
+Sentence_Level_BLEU: 0	Prediction: Komm hierher!	Actual:Trösten Sie Tom.
+Sentence_Level_BLEU: 0	Prediction: Seid nichts!	Actual:Helfen Sie uns!
+Sentence_Level_BLEU: 0.54445	Prediction: Jetzt sein ich nicht.	Actual:Ich bin beliebt.
+Sentence_Level_BLEU: 0.54445	Prediction: Er ist sehr groß.	Actual:Er ist unleidlich.
+Sentence_Level_BLEU: 0.56234	Prediction: Tom scheint gelessen.	Actual:Tom scheint benommen zu sein.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom hat eine Erkältung.	Actual:Tom war anderer Meinung.
+Sentence_Level_BLEU: 0.63894	Prediction: Sie hat ihn gesehen.	Actual:Sie hat dir vertraut.
+Sentence_Level_BLEU: 0.70711	Prediction: Behalten Sie es meine.	Actual:Behaltet es für euch!
+Sentence_Level_BLEU: 0.63894	Prediction: Wie geht es dir?	Actual:Wie sehr habe ich mich verspätet?
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe einen Traum.
+Sentence_Level_BLEU: 0.70711	Prediction: Was hast du getan?	Actual:Was habe ich verpasst?
+Sentence_Level_BLEU: 0.75984	Prediction: Tom mag Maria.	Actual:Tom redet viel.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir sind zu Hause.	Actual:Wir machen nur Spaß.
+Sentence_Level_BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Es war nicht meines.
+Sentence_Level_BLEU: 0.30935	Prediction: Wer hat es gefunden?	Actual:Wer geht?
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frau.	Actual:Ich muss es versuchen.
+Sentence_Level_BLEU: 0.30935	Prediction: Tom hat eine Erkältung.	Actual:Tom verschwand.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom trinkt Bier.
+Sentence_Level_BLEU: 0	Prediction: Alle schießen nicht.	Actual:Jeder Mensch träumt.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Tomstig.	Actual:Ich bin unverheiratet.
+Sentence_Level_BLEU: 0.54445	Prediction: Er hat mir gesagt.	Actual:Er wurde wütend.
+Sentence_Level_BLEU: 0	Prediction: Nehmt meine.	Actual:Übernehmen Sie die Kontrolle.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom hat es geschafft.	Actual:Tom wäre fast gestorben.
+Sentence_Level_BLEU: 0.64746	Prediction: Lass mich Tom anrufen.	Actual:Lass Tom los!
+Sentence_Level_BLEU: 0.75984	Prediction: Er ist schüchtern.	Actual:Er ist träge.
+Sentence_Level_BLEU: 0.56234	Prediction: Du bist ein Tom.	Actual:Du bist nicht in Form.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe eine Fraunge.	Actual:Ich habe Grippe.
+Sentence_Level_BLEU: 0.63894	Prediction: Schau dir Tom an.	Actual:Schau mal, was ich gemacht habe!
+Sentence_Level_BLEU: 0.54445	Prediction: Ich mag das Gele.	Actual:Ich mag Filme.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie lebt allein.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist gerade angeschmalten.	Actual:Tom ist fertig.
+Sentence_Level_BLEU: 0.56234	Prediction: Es ist sehr schnell.	Actual:Es ist Zeit fürs Bett.
+Sentence_Level_BLEU: 0.54445	Prediction: Du bist mein Held.	Actual:Du bist derjenige.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom kocht.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich werde dich vermissen.	Actual:Ich werde es erwähnen.
+Sentence_Level_BLEU: 0.75984	Prediction: Hat Tom gesagt?	Actual:Hat Tom gelacht?
+Sentence_Level_BLEU: 0.62233	Prediction: Er scheint gut zur sein.	Actual:Er scheint nett zu sein.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich hasse es einen Hund.	Actual:Ich aß den Apfel.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Schuld.	Actual:Ich bin Kanadier.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich mag das Gelickt.	Actual:Ich mag dich auch.
+Sentence_Level_BLEU: 0.66874	Prediction: Gib mir den Beste.	Actual:Nimm mich in den Arm!
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist deine Arbeit.	Actual:Es ist heute heiß.
+Sentence_Level_BLEU: 0	Prediction: Gib es mal her.	Actual:Entschuldige, dass ich zu spät bin.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie kann gehen wohl.	Actual:Sie blieb still.
+Sentence_Level_BLEU: 0.66874	Prediction: Tom ist großartig.	Actual:Tom hat einen im Tee.
+Sentence_Level_BLEU: 0.70711	Prediction: Er liebt dich.	Actual:Er ist vorzeitig gegangen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom war eifersüchtig.
+Sentence_Level_BLEU: 0.39011	Prediction: Er ist ein guter Junge.	Actual:Er ist Schriftsteller.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war unordentlich.
+Sentence_Level_BLEU: 0.70711	Prediction: Sie hat ihn gesehen.	Actual:Sie hat ihn umarmt.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom hat es geschafft.	Actual:Tom hat es aufgenommen.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist neu.
+Sentence_Level_BLEU: 0.63894	Prediction: Er hat ein Buch.	Actual:Er hat kein Geld.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich hasse es ernst.	Actual:Ich esse Brot.
+Sentence_Level_BLEU: 0	Prediction: Nimm meine.	Actual:Pass auf dich auf!
+Sentence_Level_BLEU: 0	Prediction: Der Hund ist getrog.	Actual:Es stank im Haus.
+Sentence_Level_BLEU: 0	Prediction: Seien Sie nett!	Actual:Harre aus!
+Sentence_Level_BLEU: 0	Prediction: Es war nicht schlecht.	Actual:Er stand zum Verkauf an.
+Sentence_Level_BLEU: 0	Prediction: Bleib wog.	Actual:Bleibt zurück!
+Sentence_Level_BLEU: 0	Prediction: Sag es mir meine.	Actual:Erzähl uns einen Witz!
+Sentence_Level_BLEU: 0	Prediction: Hör auf zu schießen.	Actual:Beweg dich nicht!
+Sentence_Level_BLEU: 0.39011	Prediction: Fahren Sie mich nicht an!	Actual:Werd nicht fett.
+Sentence_Level_BLEU: 0.63894	Prediction: Du bist mein Held.	Actual:Du bist nicht Tom.
+Sentence_Level_BLEU: 0.75984	Prediction: Du scheinst gut.	Actual:Du musst hingehen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist mittellos.
+Sentence_Level_BLEU: 0.75984	Prediction: Komm hierher!	Actual:Komm nach unten.
+Sentence_Level_BLEU: 0.5507	Prediction: Da ist es nach Haus.	Actual:Es gibt einen Haken.
+Sentence_Level_BLEU: 0.56234	Prediction: Wer hat es gesagt?	Actual:Wer hat dich denn gefragt?
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist schüchterbeiter.	Actual:Es ist halb vier.
+Sentence_Level_BLEU: 0.51003	Prediction: Ist Tom auf?	Actual:Arbeitet Tom?
+Sentence_Level_BLEU: 0.75984	Prediction: Ich liebe Bernde.	Actual:Ich liebe Knoblauch.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war beängstigend.
+Sentence_Level_BLEU: 0	Prediction: Sie sind wahr.	Actual:Die irren sich.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Schuld.	Actual:Ich bin neugierig.
+Sentence_Level_BLEU: 0.51003	Prediction: Du bist gut.	Actual:Du stirbst.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht beschäftigt.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom schwimmt.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom war aufgeregt.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom scheint geschlacht.	Actual:Tom raucht.
+Sentence_Level_BLEU: 0.8409	Prediction: Bleib weg!	Actual:Bleib unten!
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Buch.
+Sentence_Level_BLEU: 0.8409	Prediction: Es ist deine Arbeit.	Actual:Heute ist es heiß.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin ein Tomstig.	Actual:Ich bin ein Nachtmensch.
+Sentence_Level_BLEU: 0.54445	Prediction: Er war nicht wahr.	Actual:Er war zuhause.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom kichert.
+Sentence_Level_BLEU: 0.66874	Prediction: Er liebt die Hand.	Actual:Er ließ einen Drachen steigen.
+Sentence_Level_BLEU: 0.54445	Prediction: Wer hat es gefunden?	Actual:Wer war hier?
+Sentence_Level_BLEU: 0.8409	Prediction: Alle weiter.	Actual:Paddel weiter!
+Sentence_Level_BLEU: 0.70711	Prediction: Darf ich einen Bucherhauten?	Actual:Kann ich es anprobieren?
+Sentence_Level_BLEU: 0.75984	Prediction: Tom scheint bleiben.	Actual:Tom wurde ohnmächtig.
+Sentence_Level_BLEU: 0.75984	Prediction: Bist du neugleibe?	Actual:Bist du sicher?
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin kein Spion.
+Sentence_Level_BLEU: 0.75984	Prediction: Lasst uns anfangen!	Actual:Lasst uns gehen.
+Sentence_Level_BLEU: 0.75984	Prediction: Bist du neugleibe?	Actual:Bist du unglücklich?
+Sentence_Level_BLEU: 0.63894	Prediction: Können Sie schwimmen?	Actual:Können Sie es öffnen?
+Sentence_Level_BLEU: 0	Prediction: Nimm mit der Angst.	Actual:Tun Sie mir den Gefallen.
+Sentence_Level_BLEU: 0	Prediction: Behaltet es zu.	Actual:Kein Zutritt.
+Sentence_Level_BLEU: 0.70711	Prediction: Sie hat ihn gefunden.	Actual:Sie ist spät aufgestanden.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich brauche einen Hund.	Actual:Ich brauche Sie.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Frau.	Actual:Tom hat Durchhaltevermögen.
+Sentence_Level_BLEU: 0.75984	Prediction: Wo waren Sie?	Actual:Wo bist du?
+Sentence_Level_BLEU: 0.56234	Prediction: Das Leben ist ein Buch.	Actual:Das Leben ist nicht gerecht.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:Das ist ein Scherz.
+Sentence_Level_BLEU: 0	Prediction: Da ist eine Falle.	Actual:Ihre Blicke trafen sich.
+Sentence_Level_BLEU: 0.70711	Prediction: Geh nicht weh.	Actual:Beachte mich gar nicht!
+Sentence_Level_BLEU: 0.75984	Prediction: Du kannst aushuhei.	Actual:Du bist gut.
+Sentence_Level_BLEU: 0.63894	Prediction: Sie ist ein gemacht.	Actual:Sie ist mein Typ.
+Sentence_Level_BLEU: 0.30935	Prediction: Tom hat eine Frau.	Actual:Tom humpelt.
+Sentence_Level_BLEU: 0.54445	Prediction: Da ist eine Glaus.	Actual:Dort ist Tom.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Buch.	Actual:Das ist deine Aufgabe.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist durchnässt.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich brauche einen Hund.	Actual:Ich muss mich konzentrieren.
+Sentence_Level_BLEU: 0.63894	Prediction: Wir sind zu Hause.	Actual:Wir sind die Besten.
+Sentence_Level_BLEU: 0	Prediction: Sag es mir der Laufall.	Actual:Sprich die Wahrheit!
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das steht fest.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist nass.
+Sentence_Level_BLEU: 0.75984	Prediction: Er schriecht gut.	Actual:Er bemüht sich.
+Sentence_Level_BLEU: 0.66874	Prediction: Geh nicht weh.	Actual:Beachten Sie mich gar nicht!
+Sentence_Level_BLEU: 0.63894	Prediction: Ich mag Spaß.	Actual:Ich mag das Französische.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war aufreitig.	Actual:Tom wurde alarmiert.
+Sentence_Level_BLEU: 0.63894	Prediction: Sie sind verloren.	Actual:Die haben sie nicht mehr alle!
+Sentence_Level_BLEU: 0.70711	Prediction: Tom hat eine Frau.	Actual:Tom hat eine Karte.
+Sentence_Level_BLEU: 0.8409	Prediction: Wer schrimm?	Actual:Wer fastet?
+Sentence_Level_BLEU: 0	Prediction: Frag einen Han.	Actual:Streng dich mehr an.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin nicht bestürzt.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frau.	Actual:Ich gehe zur Kirche.
+Sentence_Level_BLEU: 0.70711	Prediction: Er sieht blaus aus.	Actual:Er sieht jung aus.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe eine Katze.	Actual:Ich habe Geld.
+Sentence_Level_BLEU: 0	Prediction: Schließe die Türe.	Actual:Mach deine Augen zu.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom blinzelte.
+Sentence_Level_BLEU: 0.70711	Prediction: Wie geht es!	Actual:Wie die Zeit vergeht.
+Sentence_Level_BLEU: 0	Prediction: Du kannst es gehen.	Actual:Ihr wart tapfer.
+Sentence_Level_BLEU: 0.75984	Prediction: Wo waren Sie?	Actual:Wo sind wir?
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht dünn.
+Sentence_Level_BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist Tom fertig?
+Sentence_Level_BLEU: 0	Prediction: Geh mir nicht auf die Nerven.	Actual:Nur Tom lächelte.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Mann.	Actual:Ich bin ganz Ohr.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich bin froh.
+Sentence_Level_BLEU: 0.75984	Prediction: Du solltest gehen.	Actual:Du solltest kommen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom hatte Erfolg.
+Sentence_Level_BLEU: 0.8409	Prediction: Ist das ein Freund?	Actual:Ist dies ein Fluß?
+Sentence_Level_BLEU: 0	Prediction: Rufen Sie die einen aus.	Actual:Japan ist eigenartig.
+Sentence_Level_BLEU: 0.75984	Prediction: Seie ich dick?	Actual:Kenne ich Tom?
+Sentence_Level_BLEU: 0	Prediction: Lies mich nicht haren!	Actual:Zitronen sind sauer.
+Sentence_Level_BLEU: 0	Prediction: Lassen Sie mich an!	Actual:Die Liebe bleibt.
+Sentence_Level_BLEU: 0	Prediction: Wir sind zu Hause.	Actual:Uns ist schwindlig.
+Sentence_Level_BLEU: 0.27953	Prediction: Tom hat eine Frau zu getangen.	Actual:Tom wurde schläfrig.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom stirbt.
+Sentence_Level_BLEU: 0.63894	Prediction: Wir sind zu Hause.	Actual:Wir sind spät dran.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hatte eine Erkältung.	Actual:Tom musste laufen.
+Sentence_Level_BLEU: 0.70711	Prediction: Wo ist mein Vater?	Actual:Wo ist mein Kamm?
+Sentence_Level_BLEU: 0.56234	Prediction: Ich werde mit Tom gefangen.	Actual:Ich werde es dir sagen.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist mein Satz!
+Sentence_Level_BLEU: 0	Prediction: Bist du nach Hause?	Actual:Seid ihr beschäftigt?
+Sentence_Level_BLEU: 0.54445	Prediction: Er ist das Graus.	Actual:Er hatte Kopfschmerzen.
+Sentence_Level_BLEU: 0.18763	Prediction: Fahren Sie mich nicht an!	Actual:Komm nicht.
+Sentence_Level_BLEU: 0	Prediction: Mach die Flasse auf.	Actual:Öffnet das Tor!
+Sentence_Level_BLEU: 0.30935	Prediction: Ich habe es gefunden.	Actual:Ich improvisierte.
+Sentence_Level_BLEU: 0.54445	Prediction: Bitte geh euf ih.	Actual:Enspannt euch bitte.
+Sentence_Level_BLEU: 0.30935	Prediction: Tom hat es geschlagen.	Actual:Tom tanzte.
+Sentence_Level_BLEU: 0.49761	Prediction: Ich bin aus der Stilt.	Actual:Ich bin noch jung.
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verloren.	Actual:Sie sind ruhig.
+Sentence_Level_BLEU: 0.70711	Prediction: Es war nicht schlecht.	Actual:Das wird nicht funktionieren.
+Sentence_Level_BLEU: 0	Prediction: Du kannst aushuhei.	Actual:Sie brauchen es.
+Sentence_Level_BLEU: 0	Prediction: Komm mit mir.	Actual:Kommen Sie mich besuchen.
+Sentence_Level_BLEU: 0.75984	Prediction: Komm hierher!	Actual:Komm schon, Tom!
+Sentence_Level_BLEU: 0.30935	Prediction: Tom hat es geschafft.	Actual:Tom rief.
+Sentence_Level_BLEU: 0.63894	Prediction: Was ist das freitet?	Actual:Was ist hier los?
+Sentence_Level_BLEU: 0.75984	Prediction: Ich war gut.	Actual:Ich war bestürzt.
+Sentence_Level_BLEU: 0.64746	Prediction: Sie hat ihn gesehen.	Actual:Sie liebt ihn.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin sehr geschieren.	Actual:Ich bin untröstlich.
+Sentence_Level_BLEU: 0.39011	Prediction: Tom kann sich einmal naher.	Actual:Tom kann sprechen.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich mag dein Hund.	Actual:Ich mag den Hund.
+Sentence_Level_BLEU: 0.30935	Prediction: Was ist das freitel?	Actual:Was fehlt?
+Sentence_Level_BLEU: 0.54445	Prediction: Es war nicht schlecht.	Actual:Es war perfekt.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie wachte auf.
+Sentence_Level_BLEU: 0.54445	Prediction: Er ist ein gelassen.	Actual:Er hat Schmerzen.
+Sentence_Level_BLEU: 0.63894	Prediction: Wer hat es gesagt?	Actual:Wer hat sie gefunden?
+Sentence_Level_BLEU: 0.54445	Prediction: Sie war nicht schwer.	Actual:Sie war naiv.
+Sentence_Level_BLEU: 0.79527	Prediction: Er sang ein Buch.	Actual:Er hat ein Lied gesungen.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom kannte sich.	Actual:Tom kannte sie.
+Sentence_Level_BLEU: 0	Prediction: Fang nicht!	Actual:Fangen Sie noch mal von vorne an.
+Sentence_Level_BLEU: 0.42888	Prediction: Was ist das für ein Ding?	Actual:Wie ist Tom so?
+Sentence_Level_BLEU: 0	Prediction: Nimm deinen gut angeher!	Actual:Nutze sie alle.
+Sentence_Level_BLEU: 0.54445	Prediction: Schauen Sie genauer hin.	Actual:Schaut genau hin.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war dumm.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom hat gesprochen.	Actual:Tom döste.
+Sentence_Level_BLEU: 0.47287	Prediction: Sie hat ihn gesehen.	Actual:Sie hat ihn in Versuchung geführt.
+Sentence_Level_BLEU: 0.56234	Prediction: Ich werde dich vermissen.	Actual:Ich werde mich darum kümmern.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist schrecklich.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich sah ein Buch.	Actual:Ich sah ein UFO.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich liebe den Gelist.	Actual:Ich schwimme sehr gern.
+Sentence_Level_BLEU: 0.75984	Prediction: Ich war schlecht.	Actual:Ich war wach.
+Sentence_Level_BLEU: 0.54445	Prediction: Du bist so sauf.	Actual:Du bist bestürzt.
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist schwerzelig.	Actual:Das ist eine Modeerscheinung.
+Sentence_Level_BLEU: 0.66874	Prediction: Lass mich gehen!	Actual:Lassen Sie mich mal sehen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein geheißen.	Actual:Tom ist berühmt.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie wuh!	Actual:Pack dich!
+Sentence_Level_BLEU: 0.51003	Prediction: Ist es das?	Actual:Schmeckt es?
+Sentence_Level_BLEU: 0.54445	Prediction: Behalten Sie es meine.	Actual:Halte es einfach!
+Sentence_Level_BLEU: 0	Prediction: Niemand hat angerufen.	Actual:Perfekt!
+Sentence_Level_BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie mag Wein.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom ertrank.
+Sentence_Level_BLEU: 0.54445	Prediction: Ist Tom schon liegen?	Actual:Ist Tom da?
+Sentence_Level_BLEU: 0.54445	Prediction: Bitte geh euf Tom!	Actual:Bitte tu es.
+Sentence_Level_BLEU: 0.56234	Prediction: Darf ich mich setzen?	Actual:Kann ich mich euch anschließen?
+Sentence_Level_BLEU: 0.54445	Prediction: Wir haben es gefunden.	Actual:Wir mussten kommen.
+Sentence_Level_BLEU: 0.56234	Prediction: Tom ist ein Eine.	Actual:Tom ist ein hoffnungsloser Fall.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat Milch getrunken.
+Sentence_Level_BLEU: 0	Prediction: Schauen Sie zurück.	Actual:Schau nach hinten!
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich spreche gerade.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin eine Optimistin.
+Sentence_Level_BLEU: 0.63894	Prediction: Lass es dort!	Actual:Lassen Sie es dort!
+Sentence_Level_BLEU: 0.54445	Prediction: Lasst uns essen gehen!	Actual:Lass uns zurückgehen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom sah ihn.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frause.	Actual:Ich höre die Trommel.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein gelassen.	Actual:Tom ist Kanadier.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom scheint geschlacht.	Actual:Tom kam vorbei.
+Sentence_Level_BLEU: 0	Prediction: Beginnen Sie zu leine.	Actual:Rührt euch!
+Sentence_Level_BLEU: 0.70711	Prediction: Tom schläft.	Actual:Tom ist am Gewinnen.
+Sentence_Level_BLEU: 0.9306	Prediction: Ist Tom nicht schwer?	Actual:Ist das nicht Tom?
+Sentence_Level_BLEU: 0.75984	Prediction: Wir sind verloren.	Actual:Wir sind schrecklich.
+Sentence_Level_BLEU: 0.49761	Prediction: Wir werden es mir sein.	Actual:Wir werden hier warten.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom eilte davon.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist gerade angeschmalten.	Actual:Tom ist betrunken.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe eine Frau.	Actual:Ich muss lernen.
+Sentence_Level_BLEU: 0	Prediction: Komm mit.	Actual:Ignorier Tom.
+Sentence_Level_BLEU: 0	Prediction: Setz dich!	Actual:Legen Sie es hin!
+Sentence_Level_BLEU: 0	Prediction: Ich bin sehr geschlafen.	Actual:Entschuldigung!
+Sentence_Level_BLEU: 0	Prediction: Ruf mich sagen mit!	Actual:Rufe das FBI.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich bin aus der Nachen.	Actual:Ich werde bald sterben.
+Sentence_Level_BLEU: 0	Prediction: Weiter so!	Actual:Gut gemacht, Tom!
+Sentence_Level_BLEU: 0.70711	Prediction: Ich war gut.	Actual:Ich habe mich geirrt.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist haarsträubend.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Fassung.	Actual:Tom hat geheiratet.
+Sentence_Level_BLEU: 0	Prediction: Ich bin aus der Beset.	Actual:Es ist mir egal.
+Sentence_Level_BLEU: 0.66874	Prediction: Beginnen Sie noch einmal.	Actual:Fangen Sie an zu laufen.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir haben es gesehen.	Actual:Wir meldeten uns freiwillig.
+Sentence_Level_BLEU: 0	Prediction: Du bist gut.	Actual:Ihr liegt im Sterben.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie hat ihn gesehen.	Actual:Sie riecht übel.
+Sentence_Level_BLEU: 0.30935	Prediction: Das ist ein Tom.	Actual:Das reicht.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir fürchten uns.
+Sentence_Level_BLEU: 0	Prediction: Behalten Sie es mal.	Actual:Bleib gelassen!
+Sentence_Level_BLEU: 0.62233	Prediction: Das ist ein Buch.	Actual:Das hier ist ein Löwe.
+Sentence_Level_BLEU: 0.49761	Prediction: Ich bin aus der Nachen.	Actual:Ich bin am Verlieren.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie duch!	Actual:Raus!
+Sentence_Level_BLEU: 0.54445	Prediction: Er hat mich betrogen.	Actual:Er wurde reich.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom kann es herein.	Actual:Tom rannte nach innen.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir wollen eine Falle.	Actual:Wir fragen uns, wieso.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Katze.	Actual:Ich habe ein Zuhause.
+Sentence_Level_BLEU: 1.0	Prediction: Er kann nicht schwimmen.	Actual:Er kann nicht schwimmen.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin TV-süchtig.
+Sentence_Level_BLEU: 0	Prediction: Feher is der Tom.	Actual:Seien Sie leise.
+Sentence_Level_BLEU: 0.70711	Prediction: Bist du nach Hause?	Actual:Hast du zu tun?
+Sentence_Level_BLEU: 0	Prediction: Lass es mich sieben!	Actual:Lassen Sie uns allein.
+Sentence_Level_BLEU: 0.75984	Prediction: Ist Tom gut?	Actual:Ist Tom betrunken?
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom vertraute ihm.
+Sentence_Level_BLEU: 0.65489	Prediction: Bitte setzen Sie sich hierhin.	Actual:Unterlassen Sie das bitte.
+Sentence_Level_BLEU: 0.30935	Prediction: Tom wird es versuchen.	Actual:Tom kommt.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist kindisch.
+Sentence_Level_BLEU: 0	Prediction: Seigt mal dure.	Actual:Selbst Tom lächelte.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich sehe ihn nicht.
+Sentence_Level_BLEU: 0	Prediction: Schreib mit auf.	Actual:Benimm dich wie ein Mann!
+Sentence_Level_BLEU: 0.56234	Prediction: Ich werde mit Tom gefangen.	Actual:Ich werde es mir ansehen.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie kann gehen wohlen.	Actual:Sie spielt Bach.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom sieht gut aus.	Actual:Tom hat verschlafen.
+Sentence_Level_BLEU: 0.54445	Prediction: Nimm meinen Rat an.	Actual:Nimm meinen Mantel.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom stieß auf.
+Sentence_Level_BLEU: 0.56234	Prediction: Ich habe eine Frausere.	Actual:Ich habe das Abendessen zubereitet.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist gerade angeschmalten.	Actual:Tom ist verletzt.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Nachen.	Actual:Ich bin ruiniert.
+Sentence_Level_BLEU: 0.30182	Prediction: Tom hat eine Pfange auf dein Laus.	Actual:Tom hat nicht bestanden.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom wird es versuchen.	Actual:Tom wird bereit sein.
+Sentence_Level_BLEU: 0	Prediction: Bist du nach Hause?	Actual:Geht es dir gut?
+Sentence_Level_BLEU: 0.8409	Prediction: Das ist ein Buch.	Actual:So ist das Leben!
+Sentence_Level_BLEU: 0.56234	Prediction: Ich habe eine Frauge.	Actual:Ich habe oft einen Schluckauf.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gut.	Actual:Tom ist nicht bereit.
+Sentence_Level_BLEU: 0	Prediction: Behalten Sie es mir.	Actual:Immer lächeln.
+Sentence_Level_BLEU: 0	Prediction: Esst auf die Straße.	Actual:Iss alles.
+Sentence_Level_BLEU: 0.8409	Prediction: Der Mann ist beschäftigt.	Actual:Der Soldat ist gerannt.
+Sentence_Level_BLEU: 0.70711	Prediction: Da ist deinen Hund.	Actual:Hier ist der Plan.
+Sentence_Level_BLEU: 0.64746	Prediction: Tom ist nicht gemein.	Actual:Tom lügt nicht.
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist sehr sicher.	Actual:Das ist meine Arbeit.
+Sentence_Level_BLEU: 0.54445	Prediction: Mach die Tür auf.	Actual:Öffne die Tür.
+Sentence_Level_BLEU: 0.54445	Prediction: Er liebt die Stul.	Actual:Er liebt Kaffee.
+Sentence_Level_BLEU: 0	Prediction: Hast du mich?	Actual:Echt?
+Sentence_Level_BLEU: 0.54445	Prediction: Wir brauchen eine Karte.	Actual:Wir vermissen Tom.
+Sentence_Level_BLEU: 0.5507	Prediction: Er ist ein guter Junge.	Actual:Er ist ein Gesetzloser.
+Sentence_Level_BLEU: 0.30935	Prediction: Wir sind zu Hause.	Actual:Wir schießen.
+Sentence_Level_BLEU: 0.70711	Prediction: Kann ich mich helassen?	Actual:Darf ich sie anfassen?
+Sentence_Level_BLEU: 0.8409	Prediction: Tom ist nicht gemein.	Actual:Tom hat nicht Recht.
+Sentence_Level_BLEU: 0	Prediction: Du hast es versucht.	Actual:Ihr könntet die Führung übernehmen.
+Sentence_Level_BLEU: 0.54445	Prediction: Es ist sehr schüchtern.	Actual:Heute ist Mittwoch.
+Sentence_Level_BLEU: 0.51003	Prediction: Du kannst allein.	Actual:Du stinkst.
+Sentence_Level_BLEU: 0.39011	Prediction: Bin ich ein Hund an?	Actual:Bin ich verliebt?
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat geschlafen.	Actual:Tom hat es versucht.
+Sentence_Level_BLEU: 0.79527	Prediction: Mach die Flasse auf.	Actual:Machen Sie die Flasche auf.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist betrunken.
+Sentence_Level_BLEU: 0	Prediction: Stiel dant!	Actual:Sagenhaft!
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verärgert.	Actual:Sie sind beschäftigt.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Tom.	Actual:So lautet das Gesetz.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist eifersüchtig.
+Sentence_Level_BLEU: 0	Prediction: Ich bin aus der Nachen.	Actual:Mir geht es gut.
+Sentence_Level_BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer sind sie?
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin kein Baby.
+Sentence_Level_BLEU: 0	Prediction: Das war kommen.	Actual:Dies wird klappen.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe eine Frauge.	Actual:Ich lese oft.
+Sentence_Level_BLEU: 0	Prediction: Schau gun zu.	Actual:Beobachten Sie uns.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom ist geladen.	Actual:Tom ist im Ruhestand.
+Sentence_Level_BLEU: 0.70711	Prediction: Das Leben ist kurz.	Actual:Das Leben ist verrückt.
+Sentence_Level_BLEU: 0	Prediction: Versuchen Sie duch!	Actual:Aus dem Bett mit dir!
+Sentence_Level_BLEU: 0.75984	Prediction: Ich werde gerade.	Actual:Ich werde bleiben.
+Sentence_Level_BLEU: 0	Prediction: Sei nett zu ihr.	Actual:Schießt zurück.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom fällt.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist liebenswert.
+Sentence_Level_BLEU: 0.65111	Prediction: Ich habe eine Frau zu gesten.	Actual:Ich weiß das zu schätzen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom hat Talent.
+Sentence_Level_BLEU: 0.65489	Prediction: Kann ich mich nutze sehen?	Actual:Kann er uns sehen?
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist ordentlich.
+Sentence_Level_BLEU: 0.75984	Prediction: Er sieht blüssel.	Actual:Er sang weiter.
+Sentence_Level_BLEU: 0.51003	Prediction: Es hat geschnaut.	Actual:Es brannte.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war drinnen.
+Sentence_Level_BLEU: 0.54445	Prediction: Es ist sehr schüchtern.	Actual:Das ist verboten.
+Sentence_Level_BLEU: 0.66874	Prediction: Es war zu schnell.	Actual:Es ist 7:45 Uhr.
+Sentence_Level_BLEU: 0	Prediction: Der Mann ist beschäftigt.	Actual:Die Blätter sind gefallen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom wird es versuchen.	Actual:Tom wird folgen.
+Sentence_Level_BLEU: 0.63894	Prediction: Sie ist nicht gut.	Actual:Sie ist in Gefahr.
+Sentence_Level_BLEU: 0	Prediction: Bier ihn auf.	Actual:Warnen Sie Tom.
+Sentence_Level_BLEU: 0.63894	Prediction: Lasst uns Tom sehen.	Actual:Lassen Sie uns ein Taxi nehmen!
+Sentence_Level_BLEU: 0.20029	Prediction: Ich muss mich aus den Lauf drautend.	Actual:Ich muss rausgehen.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom hustet.
+Sentence_Level_BLEU: 0.54445	Prediction: Was für ein Tom?	Actual:Was brauche ich?
+Sentence_Level_BLEU: 0	Prediction: Niemand hat aufgesahnt.	Actual:Keiner ist glücklich.
+Sentence_Level_BLEU: 0.63894	Prediction: Du kannst aushören.	Actual:Du gehst mir auf die Nerven.
+Sentence_Level_BLEU: 0.56234	Prediction: Tom hat es geschafft.	Actual:Tom hat das da gefunden.
+Sentence_Level_BLEU: 0.42888	Prediction: Niemand hat mir den Laufpass gegeben.	Actual:Niemand war zu Hause.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich brauche einen Hund.	Actual:Ich benötige sie.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich liebe Sparis.	Actual:Ich habe euch geliebt.
+Sentence_Level_BLEU: 0	Prediction: Komm mit mir.	Actual:Kommt mich besuchen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein gelassen.	Actual:Tom ist erwachsen.
+Sentence_Level_BLEU: 0.5507	Prediction: Tu drießen Sie mich nicht.	Actual:Fass es nicht an.
+Sentence_Level_BLEU: 0.49761	Prediction: Ist Tom auf der Mann?	Actual:Ist Tom ein Genie?
+Sentence_Level_BLEU: 0	Prediction: Es klang einfach.	Actual:Er passt nicht.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war erwastet.	Actual:Tom war hungrig.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich will eine Falle.	Actual:Ich hätte gern ein Glas.
+Sentence_Level_BLEU: 0	Prediction: Du bist gut.	Actual:Das kann nicht euer Ernst sein!
+Sentence_Level_BLEU: 0.70711	Prediction: Wir wollen es hier.	Actual:Wir sind alle gestanden.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat eine Fassumangereben.	Actual:Tom hat mir vergeben.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkäutet.	Actual:Tom zeichnet gut.
+Sentence_Level_BLEU: 0	Prediction: Sei nicht tum.	Actual:Pandas sind niedlich.
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist sehr schnell.	Actual:Es liegt bei dir.
+Sentence_Level_BLEU: 0	Prediction: Geh mir nicht auf.	Actual:Tu ihm nichts!
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Buch.	Actual:Das ist ein Hotel.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist gerade.	Actual:Tom ist wütend.
+Sentence_Level_BLEU: 0	Prediction: Bist du nicht so schlafen?	Actual:Ist mit dir alles in Ordnung, Tom?
+Sentence_Level_BLEU: 0.75984	Prediction: Tom kennt sie.	Actual:Tom kennt es.
+Sentence_Level_BLEU: 0	Prediction: Sollen Sie sich draußen!	Actual:Entspann dich einfach!
+Sentence_Level_BLEU: 0.70711	Prediction: Der Mann ist besserzt.	Actual:Das Zimmer ist heiß.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist nicht schlecht.
+Sentence_Level_BLEU: 0.49761	Prediction: Ich bin auf der Lasen.	Actual:Ich bin kein Engländer.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe eine Frause.	Actual:Ich muss arbeiten.
+Sentence_Level_BLEU: 0.51003	Prediction: Gehen Sie schlafen!	Actual:Gehe schlafen!
+Sentence_Level_BLEU: 0.63894	Prediction: Sie hat ihn gesehen.	Actual:Sie hat ihm vergeben.
+Sentence_Level_BLEU: 0.30182	Prediction: Tom hat eine Pfange auf dein Laus.	Actual:Tom hat nicht angerufen.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich hasse es einverstanden.	Actual:Ich hasse den Winter.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe es gefunden.	Actual:Ich umarmte Tom.
+Sentence_Level_BLEU: 0	Prediction: Fahre mich nicht helfen!	Actual:Fahren Sie vorsichtig.
+Sentence_Level_BLEU: 0.75984	Prediction: Wird kommen Tom.	Actual:Frauen hassen Tom.
+Sentence_Level_BLEU: 0.63894	Prediction: Es war nicht schlecht.	Actual:Es war so dunkel.
+Sentence_Level_BLEU: 0	Prediction: Rehe dies!	Actual:Setzt euch mit Tom in Verbindung.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe eine Frauze.	Actual:Ich hatte zwei Hunde.
+Sentence_Level_BLEU: 0.75984	Prediction: Wir brauchen dich.	Actual:Wir brauchen euch.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat eine Erkältung.	Actual:Tom machte Abendessen.
+Sentence_Level_BLEU: 0	Prediction: Sei nicht in der Nähe!	Actual:Augenblickchen!
+Sentence_Level_BLEU: 0	Prediction: Verschwinde!	Actual:Mach dich fort!
+Sentence_Level_BLEU: 0.70711	Prediction: Tom war nicht gemacht.	Actual:Tom war nicht beschäftigt.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom ist ein geheißen.	Actual:Tom ist gerade beschäftigt.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir brauchen einen Hund.	Actual:Wir müssen essen.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann nicht malen.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin ein Tomstig.	Actual:Ich bin dir böse.
+Sentence_Level_BLEU: 0.8409	Prediction: Wie seltsam!	Actual:Wie schlau!
+Sentence_Level_BLEU: 0.70711	Prediction: Win werden es hier.	Actual:Wir wollen es zurückhaben.
+Sentence_Level_BLEU: 0	Prediction: Sellen wir uns einer aus!	Actual:Sogar Tom hat gelogen.
+Sentence_Level_BLEU: 0.8409	Prediction: Was für ein Tom?	Actual:Was wird Tom gewinnen?
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist untreu.
+Sentence_Level_BLEU: 0.8409	Prediction: Lass mich das machen.	Actual:Lass Tom fertig machen.
+Sentence_Level_BLEU: 0.27953	Prediction: Tom hat eine Frau zu gesten.	Actual:Tom aß allein.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich konnte mich nicht.	Actual:Ich rief ihn an.
+Sentence_Level_BLEU: 0.65489	Prediction: Meine Aute ist es wein.	Actual:Meine Katze ist weiß.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist sorglos.
+Sentence_Level_BLEU: 0.8409	Prediction: Es war nicht schlecht.	Actual:Es wird nicht schaden.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich habe es gefunden.	Actual:Ich habe Sie gefunden.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich werde dich vermissen.	Actual:Ich werde dich einladen.
+Sentence_Level_BLEU: 0.54445	Prediction: Ist das ein Frau?	Actual:Ist das ungewöhnlich?
+Sentence_Level_BLEU: 0.54445	Prediction: Sie kann gehen weh.	Actual:Sie braucht sie.
+Sentence_Level_BLEU: 0.56234	Prediction: Folgen Sie diesem Auto.	Actual:Fahren Sie diesem Wagen hinterher.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin sehr schüchtern.	Actual:Ich bin immer beschäftigt.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom sah dich gelassen.	Actual:Tom saß ruhig da.
+Sentence_Level_BLEU: 0.54445	Prediction: Lasst uns Tom sehen.	Actual:Entlassen wir Tom.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich will eine Falle.	Actual:Ich besitze dieses Auto.
+Sentence_Level_BLEU: 0	Prediction: Seien Sie nett zu scheinen.	Actual:Sei ein Mann!
+Sentence_Level_BLEU: 0.75984	Prediction: Sag es mir.	Actual:Sag „Ah!“
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist einfach.
+Sentence_Level_BLEU: 0.75984	Prediction: Wartet mal!	Actual:Warten Sie mal!
+Sentence_Level_BLEU: 0.60653	Prediction: Warte mal kurz.	Actual:Warte mal!
+Sentence_Level_BLEU: 0.75984	Prediction: Tom liebt Murik.	Actual:Tom geht schnell.
+Sentence_Level_BLEU: 0.56234	Prediction: Du scheinst beschäftigt aus.	Actual:Du scheinst bestürzt zu sein.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir machen Witze.
+Sentence_Level_BLEU: 0.60428	Prediction: Er ist ein guter Junge.	Actual:Er ist ein unmöglicher Junge.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom schläft.	Actual:Tom ist aufgeschlossen.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin auf der Lasen.	Actual:Ich bin kurzsichtig.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom schläft.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom hinterging mich.
+Sentence_Level_BLEU: 0.70711	Prediction: Er hat mich angelogen.	Actual:Er könnte es machen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom war ein Spieltig.	Actual:Tom wurde betrogen.
+Sentence_Level_BLEU: 0.49761	Prediction: Ich bin aus der Nachen.	Actual:Ich bin am Dösen.
+Sentence_Level_BLEU: 0	Prediction: Halte Tom auf die Straße.	Actual:Moment mal!
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist geladen.	Actual:Tom ist präzise.
+Sentence_Level_BLEU: 0.51003	Prediction: Du kannst es mit meinen gehen.	Actual:Das kannst du behalten.
+Sentence_Level_BLEU: 0.63894	Prediction: Ist es das?	Actual:Ist es zu groß?
+Sentence_Level_BLEU: 0.54445	Prediction: Tom schaut eine Falle.	Actual:Tom sprach zuerst.
+Sentence_Level_BLEU: 0.56234	Prediction: Ich habe eine Frau.	Actual:Ich habe 10 Füller dabei.
+Sentence_Level_BLEU: 0	Prediction: Du kannst allein.	Actual:Sie stinken.
+Sentence_Level_BLEU: 0.56234	Prediction: Tom ist ein Eine.	Actual:Tom ist zu sehr beschäftigt.
+Sentence_Level_BLEU: 0.30935	Prediction: Das ist ein Tom.	Actual:Das stimmt.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich bin sehr geschieren.	Actual:Ich bin so dick.
+Sentence_Level_BLEU: 1.0	Prediction: Tom wird gehen.	Actual:Tom wird gehen.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom scheint gelassen.	Actual:Tom wirkt pingelig.
+Sentence_Level_BLEU: 0	Prediction: Mein Faus ist so gefunden.	Actual:Ich heiße Tom.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich muss mich sehen.	Actual:Ich habe Tom falsch eingeschätzt.
+Sentence_Level_BLEU: 0.54445	Prediction: Er war nicht wahr.	Actual:Er war perfekt.
+Sentence_Level_BLEU: 0	Prediction: Du scheinst gut zu sein.	Actual:Sie sollten hingehen.
+Sentence_Level_BLEU: 0.30935	Prediction: Wir sind zu Hause.	Actual:Wir fasten.
+Sentence_Level_BLEU: 0.18763	Prediction: Ich bin aus der Nachen.	Actual:Ich huste.
+Sentence_Level_BLEU: 0.30935	Prediction: Wie kommen ist dran.	Actual:Wie romantisch!
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist nicht einfach.	Actual:Das ist nicht lustig!
+Sentence_Level_BLEU: 0.75984	Prediction: Ich war schlecht.	Actual:Ich wurde gefoltert.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom ist ein geheimet.	Actual:Tom ist nicht hier.
+Sentence_Level_BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Das ist Gift.
+Sentence_Level_BLEU: 0.75984	Prediction: Jetzt schmerzen Tom!	Actual:Jetzt nicht bewegen!
+Sentence_Level_BLEU: 0.42888	Prediction: Was ist das für ein Ding?	Actual:Wozu ist es gut?
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht Tom.
+Sentence_Level_BLEU: 0	Prediction: Geh mir nicht auf.	Actual:Versucht euch zu erinnern!
+Sentence_Level_BLEU: 0	Prediction: Komm hierher!	Actual:Legen Sie ihm Handschellen an.
+Sentence_Level_BLEU: 0.70711	Prediction: Es ist schwerzelig.	Actual:Das ist meine Arbeit.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom mag Mahn.	Actual:Tom mag Rock.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich kann es nicht sehen.	Actual:Ich kann nicht stehen.
+Sentence_Level_BLEU: 0.63894	Prediction: Wer hat es getan?	Actual:Wer hat sie jetzt?
+Sentence_Level_BLEU: 0.70711	Prediction: Rufe die einfach auf.	Actual:Mach die Türe zu.
+Sentence_Level_BLEU: 0.54445	Prediction: Wer hat es gesagt?	Actual:Wer hat aufgehört?
+Sentence_Level_BLEU: 0.70711	Prediction: Hör auf zu schießen.	Actual:Hör auf zu starren.
+Sentence_Level_BLEU: 0.75984	Prediction: Ich liebe Sparis.	Actual:Ich liebe Reisen.
+Sentence_Level_BLEU: 0	Prediction: Sei nicht tum.	Actual:Pandas sind süß.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist weg.
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Tom.	Actual:Das ist eine Tatsache.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist ein geheißen.	Actual:Tom ist ein Verrückter.
+Sentence_Level_BLEU: 0.70711	Prediction: Die Faurr ist getan.	Actual:Das Auto ist blau.
+Sentence_Level_BLEU: 0	Prediction: Verschwinde!	Actual:Scher dich weg!
+Sentence_Level_BLEU: 0.70711	Prediction: Wie geht es dir?	Actual:Wie ist die Lage?
+Sentence_Level_BLEU: 0.54445	Prediction: Hör auf zu schießen.	Actual:Hör auf damit!
+Sentence_Level_BLEU: 0.75984	Prediction: Sie haben gewonnen.	Actual:Sie umarmten sich.
+Sentence_Level_BLEU: 0.39011	Prediction: Tom hat eine Pfange aufgehört.	Actual:Tom schoss zuerst.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich brauche einen Hund.	Actual:Ich muss aufhören.
+Sentence_Level_BLEU: 0.5507	Prediction: Ich bin aus der Beset.	Actual:Ich habe nichts dagegen.
+Sentence_Level_BLEU: 0.75984	Prediction: Lasst uns essen!	Actual:Lass uns anfangen!
+Sentence_Level_BLEU: 0	Prediction: Kannst du schwimmen?	Actual:Könnt ihr helfen?
+Sentence_Level_BLEU: 0	Prediction: Die Tasse ist glaus.	Actual:Das Tor ging auf.
+Sentence_Level_BLEU: 0.70711	Prediction: Geh nicht weh.	Actual:Beachtet mich gar nicht!
+Sentence_Level_BLEU: 0.54445	Prediction: Wasch dir das Gesetzt.	Actual:Wasch deine Füße.
+Sentence_Level_BLEU: 0.66874	Prediction: Sie hat ihn gesehen.	Actual:Sie gab ihm eine Ohrfeige.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom sprach.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich liebe mich ause.	Actual:Ich spiele mit ihm.
+Sentence_Level_BLEU: 0	Prediction: Nimm deinen Hut an!	Actual:Mache dich bereit zu sterben!
+Sentence_Level_BLEU: 0.75984	Prediction: Wir sind verloren.	Actual:Wir sind dankbar.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin sehr geschäftigt.	Actual:Ich bin sehr beschäftigt.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir haben es gefunden.	Actual:Wir haben Besuch.
+Sentence_Level_BLEU: 0.5507	Prediction: Tom scheint beschäftigt zu sein.	Actual:Tom hat gut gewählt.
+Sentence_Level_BLEU: 0	Prediction: Du scheint bleiben.	Actual:Sie sind so gütig.
+Sentence_Level_BLEU: 0.54445	Prediction: Hör auf zu schießen.	Actual:Halte Tom auf!
+Sentence_Level_BLEU: 0.54445	Prediction: Du bist so farten.	Actual:Du hast gewonnen!
+Sentence_Level_BLEU: 0.66874	Prediction: Ist das ein Frau?	Actual:Gibt es dort ein Café?
+Sentence_Level_BLEU: 0	Prediction: Bleib wohl.	Actual:Bleibt cool.
+Sentence_Level_BLEU: 0.54445	Prediction: Er ist ein gelassen.	Actual:Er ist Japaner.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom fehlt.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es geschafft.	Actual:Tom blieb stumm.
+Sentence_Level_BLEU: 0	Prediction: Fang nicht.	Actual:Fragen Sie einen Fachmann.
+Sentence_Level_BLEU: 0.30935	Prediction: Er ist ein gelassen.	Actual:Er schläft.
+Sentence_Level_BLEU: 0.51003	Prediction: Du kannst es mit meinen gehen.	Actual:Du darfst jetzt gehen.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist furchtbar.
+Sentence_Level_BLEU: 0.70711	Prediction: Wir wollen eine Falle.	Actual:Wir sind viel gelaufen.
+Sentence_Level_BLEU: 0.56234	Prediction: Gib mir den Beise.	Actual:Geben Sie mir den Schlüssel.
+Sentence_Level_BLEU: 0.63894	Prediction: Lasst uns angelengen!	Actual:Lass es uns in Angriff nehmen!
+Sentence_Level_BLEU: 0.5507	Prediction: Du wirst Tom stücktig allessen.	Actual:Du wirst Tom treffen.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich bin ein Mach.	Actual:Ich bin Tischler.
+Sentence_Level_BLEU: 0.75984	Prediction: Sie sind verärgert.	Actual:Sie sind Piloten.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom hat gesprochen.	Actual:Tom hat angehalten.
+Sentence_Level_BLEU: 0.63894	Prediction: Wer hat es gefunden?	Actual:Wer hat Tom beschimpft?
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat eine Frau.	Actual:Tom hat ein Boot.
+Sentence_Level_BLEU: 0.75984	Prediction: Ist es das?	Actual:Ist es neblig?
+Sentence_Level_BLEU: 0.70711	Prediction: Es klang einfach.	Actual:Es hat viel geschneit.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom sieht gut aus.	Actual:Tom sieht furchtbar aus.
+Sentence_Level_BLEU: 0.54445	Prediction: Wir sind zu Hause.	Actual:Wir sind glücklich.
+Sentence_Level_BLEU: 0.63894	Prediction: Tom ist nicht gemein.	Actual:Tom ist kein Dummkopf.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom scheint gelassen.	Actual:Tom ist, scheint’s, beschäftigt.
+Sentence_Level_BLEU: 0	Prediction: Nicht lachen!	Actual:Pflanzen wachsen.
+Sentence_Level_BLEU: 0	Prediction: Geh schnell zu sein.	Actual:Schön für Sie.
+Sentence_Level_BLEU: 0	Prediction: Du scheinst beschäftigt aus.	Actual:Ihr scheint bestürzt zu sein.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war eingeladen.	Actual:Tom war gescheit.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Tom.	Actual:Das ist geil.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom wurde getannt.	Actual:Tom wartete.
+Sentence_Level_BLEU: 0.54445	Prediction: Bitte seh es mir.	Actual:Bitte finde Tom.
+Sentence_Level_BLEU: 0	Prediction: Eststand wur beschäftigt.	Actual:Lieg still und beweg dich nicht.
+Sentence_Level_BLEU: 0.60253	Prediction: Tom kann nicht schwimmen.	Actual:Tom kann schwimmen.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich werde dich vermissen.	Actual:Ich bringe es jetzt in Ordnung.
+Sentence_Level_BLEU: 0.64746	Prediction: Sie haben Tom gefangen.	Actual:Sie umarmten Tom.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich bin aus Tom.	Actual:Ich sehe es nicht.
+Sentence_Level_BLEU: 0.54445	Prediction: Lasst uns essen gehen!	Actual:Lass uns weitermachen.
+Sentence_Level_BLEU: 0.54445	Prediction: Das ist ein Buch.	Actual:Das ist ihre.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Still.	Actual:Ich esse gerade.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war verärgert.	Actual:Tom war unfair.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom hat es getan.	Actual:Tom sollte kommen.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom wird es versuchen.	Actual:Tom wird erzählen.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom hat geschlafen.	Actual:Tom betete.
+Sentence_Level_BLEU: 0.66874	Prediction: Ich wurde nicht gehen.	Actual:Ich hätte gern ein Bier.
+Sentence_Level_BLEU: 0.66874	Prediction: Sie ist ihrer geschlagen.	Actual:Sie scheint reich zu sein.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich will eine Falle.	Actual:Ich will eine Gehaltserhöhung.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein geheißen.	Actual:Tom ist obdachlos.
+Sentence_Level_BLEU: 0.54752	Prediction: Ich bin ein Mann zu schlafen.	Actual:Ich befinde mich in London.
+Sentence_Level_BLEU: 0.75984	Prediction: Zeig es mir.	Actual:Zeig ihn uns!
+Sentence_Level_BLEU: 0.51003	Prediction: Tom ist großartig.	Actual:Tom kocht.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich habe es gefangtet.	Actual:Ich glaube dir.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom ist nicht gemein.	Actual:Tom ist nicht dumm.
+Sentence_Level_BLEU: 0.39011	Prediction: Ich bin aus der Schuld.	Actual:Ich bin Ungar.
+Sentence_Level_BLEU: 0.63894	Prediction: Du bist ein Tom.	Actual:Du bist mein Boss.
+Sentence_Level_BLEU: 0.75984	Prediction: Es ist schwerzelig.	Actual:Es ist windig.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war aufreit.	Actual:Tom war besorgt.
+Sentence_Level_BLEU: 0.75984	Prediction: Wir haben geschlafen.	Actual:Wir sind glücklich.
+Sentence_Level_BLEU: 0.63894	Prediction: Darf ich mich setzen?	Actual:Darf ich euch helfen?
+Sentence_Level_BLEU: 0.63894	Prediction: Das ist ein Buch.	Actual:Das ist mein Auto.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom ist großartig.	Actual:Tom ist neu.
+Sentence_Level_BLEU: 0.66874	Prediction: Meine Augen schmerzen.	Actual:Mir tun die Augen weh.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist ein Buch.	Actual:Dies ist mein Plan.
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist sehr schnell.	Actual:Es ist zu niedrig.
+Sentence_Level_BLEU: 0.63894	Prediction: Ich habe eine Frau.	Actual:Ich habe ein Visum.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein Eine.	Actual:Tom ist barmherzig.
+Sentence_Level_BLEU: 0.51003	Prediction: Tom war aufgeblasen.	Actual:Tom ging.
+Sentence_Level_BLEU: 0.75984	Prediction: Tom war verärgert.	Actual:Tom hatte Pech.
+Sentence_Level_BLEU: 0.54445	Prediction: Tom war ein Spien.	Actual:Tom war unverletzt.
+Sentence_Level_BLEU: 0	Prediction: Setz dich!	Actual:Leg es hin!
+Sentence_Level_BLEU: 0.54445	Prediction: Tom ist ein geheißen.	Actual:Tom ist kreativ.
+Sentence_Level_BLEU: 0.54445	Prediction: Sie ist auf dich.	Actual:Sie spricht gerade.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich sah ein Buch.	Actual:Ich habe einen gesehen.
+Sentence_Level_BLEU: 0.27953	Prediction: Ich kann es mir nicht sehen.	Actual:Ich habe übertrieben.
+Sentence_Level_BLEU: 0.49761	Prediction: Er ist ein guter Junge.	Actual:Er ist nicht doof.
+Sentence_Level_BLEU: 0.51003	Prediction: Wir haben geschlafen.	Actual:Wir kommen.
+Sentence_Level_BLEU: 0.70711	Prediction: Das ist nicht faur.	Actual:Das ist nicht glatt.
+Sentence_Level_BLEU: 0	Prediction: Du bist so sauf.	Actual:Sie sind wahnsinnig.
+Sentence_Level_BLEU: 0	Prediction: Es ist nicht einfach.	Actual:Das müsst ihr wissen!
+Sentence_Level_BLEU: 0.30935	Prediction: Es war nicht schlecht.	Actual:Es eilte.
+Sentence_Level_BLEU: 0.54445	Prediction: Es war nicht schlecht.	Actual:Es war Nacht.
+Sentence_Level_BLEU: 0.8409	Prediction: Tom schläft.	Actual:Tom lügt.
+Sentence_Level_BLEU: 0	Prediction: Komm hierher!	Actual:Kommt morgen.
+Sentence_Level_BLEU: 0.54445	Prediction: Bin ich ein Buchen?	Actual:Langweile ich euch?
+Sentence_Level_BLEU: 0.63894	Prediction: Es ist nicht einfach.	Actual:Es ist zu spät.
+Sentence_Level_BLEU: 0.70711	Prediction: Das eut ist alles.	Actual:Der Tee ist warm.
+Sentence_Level_BLEU: 0.54445	Prediction: Lasst mich das machen.	Actual:Lass mich sehen.
+Sentence_Level_BLEU: 0	Prediction: Sieh nicht auf.	Actual:Schau nach vorne.
+Sentence_Level_BLEU: 0.54445	Prediction: Ich werde dich vermissen.	Actual:Ich erlaube das.
+Sentence_Level_BLEU: 0.79527	Prediction: Die Faurr ist getan.	Actual:Die Katze ist in Sicherheit.
+Sentence_Level_BLEU: 0.63894	Prediction: Wir sind verloren.	Actual:Wir sind so beschäftigt!
+Sentence_Level_BLEU: 0.63894	Prediction: Tom hat es geschafft.	Actual:Tom hat mir wehgetan.
+Sentence_Level_BLEU: 0.70711	Prediction: Was hast du getan?	Actual:Was hat Tom getötet?
+Sentence_Level_BLEU: 0.54445	Prediction: Du bist so sauf.	Actual:Du kommst spät.
+Sentence_Level_BLEU: 0	Prediction: Behalten Sie es meine.	Actual:Suche weiter!
+Sentence_Level_BLEU: 0.66874	Prediction: Gehen Sie nicht.	Actual:Bleib nicht zu lange weg.
+Sentence_Level_BLEU: 0.70711	Prediction: Ich liebe den Gelist.	Actual:Ich lebe in Kobe.
+Sentence_Level_BLEU: 0.70711	Prediction: Tom hat es geschafft.	Actual:Tom rief Mary an.
+Sentence_Level_BLEU: 0	Prediction: Schließe dich auf.	Actual:Schließ es ab.
+Sentence_Level_BLEU: 0.54445	Prediction: Er hat ein Buch.	Actual:Er hat Geld.
